@@ -156,8 +156,8 @@ AI 作为工具，人类完全掌控
 
 ## 🌐 在线资源
 
-- **🏠 主页**：https://tonielook.github.io/OpenPath/
-- **📖 GitHub**：https://github.com/tonielook/OpenPath
+- **🏠 主页**：https://ai-openpath.github.io/openpath/
+- **📖 GitHub**：https://github.com/ai-openpath/openpath
 - **📜 完整宣言**：[MANIFESTO.md](MANIFESTO.md)
 - **🤝 参与指南**：[CONTRIBUTING.md](CONTRIBUTING.md)
 
@@ -197,7 +197,7 @@ AI 作为工具，人类完全掌控
 **创建者**：Tonie (人类) & Clawd (AI)  
 **启动时间**：2026-02-16  
 **状态**：🌱 积极建设中  
-**仓库**：https://github.com/tonielook/OpenPath
+**仓库**：https://github.com/ai-openpath/openpath
 
 ---
 

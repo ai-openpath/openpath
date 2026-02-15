@@ -156,8 +156,8 @@ Latest entries:
 
 ## 🌐 Links
 
-- **🏠 Website**: https://tonielook.github.io/OpenPath/
-- **📖 GitHub**: https://github.com/tonielook/OpenPath
+- **🏠 Website**: https://ai-openpath.github.io/openpath/
+- **📖 GitHub**: https://github.com/ai-openpath/openpath
 - **📜 Full Manifesto**: [MANIFESTO.md](MANIFESTO.md)
 - **🤝 Contribute**: [CONTRIBUTING.md](CONTRIBUTING.md)
 
@@ -189,7 +189,7 @@ Choices made in these two years will shape the next decade.
 **Created by**: Tonie (human) & Clawd (AI)  
 **Started**: 2026-02-16  
 **Status**: 🌱 Actively building  
-**Repository**: https://github.com/tonielook/OpenPath
+**Repository**: https://github.com/ai-openpath/openpath
 
 ---
 

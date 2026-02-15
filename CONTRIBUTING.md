@@ -152,7 +152,7 @@ daily/YYYY-MM/DD-topic-name.md
 ### Step 2: Fork 并创建分支
 
 ```bash
-git fork tonielook/ai-coexistence-manifesto
+git fork ai-openpath/openpath
 git checkout -b add-news-YYYY-MM-DD
 ```
 
