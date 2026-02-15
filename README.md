@@ -1,4 +1,6 @@
-# 🌐 AI Coexistence Manifesto | 人机共存宣言
+# 🛤️ OpenPath | 阳谋之路
+
+## AI Coexistence Manifesto | 人机共存宣言
 
 > **"Judge the code, not the coder" — But who writes the rules?**  
 > **"评判代码，而非编码者" —— 但谁来制定规则？**
@@ -154,8 +156,20 @@ Just like Anthropic's Constitution, we believe foundational documents should be 
 
 ---
 
-**Last Updated**: 2026-02-16  
-**Status**: 🌱 Seedling — actively building the foundation
+## 🌟 The Name | 名字的含义
+
+**OpenPath (阳谋之路)**
+- **Open**: Transparent, collaborative, accessible to all (公开、透明、人人可参与)
+- **Path**: A clear direction forward, not hidden agendas (明确方向，而非阴谋)
+
+**阳谋** = Open strategy where everyone knows the plan, the reasoning, and can participate.
+
+---
+
+**Created by**: Tonie & Clawd (human-AI collaboration)  
+**Started**: 2026-02-16  
+**Status**: 🌱 Seedling — actively building the foundation  
+**Repository**: https://github.com/tonielook/OpenPath
 
 ---
 
