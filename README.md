@@ -1,195 +1,206 @@
 # 🛤️ OpenPath | 阳谋之路
 
-## AI Coexistence Manifesto | 人机共存宣言
-
-> **"Judge the code, not the coder" — But who writes the rules?**  
-> **"评判代码，而非编码者" —— 但谁来制定规则？**
-
+[![English](https://img.shields.io/badge/English-README.en.md-blue)](README.en.md)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+> **"评判代码，而非编码者" —— 但谁来制定规则？**
 
 ---
 
-## 📖 What is This? | 这是什么？
+## 📖 这是什么？
 
-**English:**  
-This is a living document and community initiative inspired by Mao's *On Protracted War* (《论持久战》), applying its strategic framework to the long-term coexistence of humans and AI.
-
-We believe:
-- AI development is a **protracted war**, not a sprint
-- We need **transparent, collaborative strategy** (阳谋), not hidden agendas (阴谋)
-- Solutions must address **philosophy (道), strategy (法), methods (术)**, not just tools (器)
-
-This repository tracks:
-1. **Core principles** for human-AI coexistence
-2. **Daily news & incidents** (e.g., [matplotlib AI controversy](daily/2026-02/15-matplotlib-incident.md))
-3. **Practical frameworks** for open source, academia, and industry
-4. **Case studies** analyzing conflicts and resolutions
-
-**中文：**  
-这是一个受《论持久战》启发的活文档和社区倡议，将其战略框架应用于人类与 AI 的长期共存。
+**OpenPath（阳谋之路）** 是一个受《论持久战》启发的活文档和社区倡议，将其战略框架应用于人类与 AI 的长期共存。
 
 我们相信：
 - AI 发展是一场**持久战**，而非速胜论
 - 我们需要**透明、协作的战略**（阳谋），而非暗箱操作（阴谋）
-- 解决方案必须从**道法术器**四个层面入手，重点在道法术
+- 解决方案必须从**道法术器势**五个层面入手
 
 本仓库追踪：
-1. 人机共存的**核心原则**
-2. **每日新闻和事件**（如 [matplotlib AI 争议](daily/2026-02/15-matplotlib-incident.md)）
-3. 开源、学术、工业界的**实践框架**
-4. **案例分析**：冲突与解决方案
+1. 人机共存的**核心原则**（道法）
+2. **每日新闻和事件**（如 matplotlib AI 争议）
+3. 开源、学术、工业界的**实践框架**（术）
+4. **趋势分析和时机判断**（势）
 
 ---
 
-## 🎯 The Three Phases | 三阶段论
+## 🎯 五层框架：道法术器势
 
-### Phase 1: Strategic Defense (2010s-2020s)
-**AI as tools, humans fully in control**  
+| 层级 | 重点 | 内容 |
+|-----|------|------|
+| **势 (Momentum)** | 🔥 90% | 形势判断、时机把握、趋势塑造 |
+| **道 (Philosophy)** | 🔥 80% | 核心价值观、基本原则、阳谋思想 |
+| **法 (Strategy)** | 🔥 80% | 三阶段论、根据地建设、多方框架 |
+| **术 (Methods)** | ⚡ 60% | 具体指南、案例分析、冲突解决 |
+| **器 (Tools)** | 📝 20% | 政策模板、实施工具（仅参考） |
+
+---
+
+## 📊 AI 发展三阶段论
+
+### 第一阶段：人类主导 (2010s-2022)
 AI 作为工具，人类完全掌控
 
-### Phase 2: Strategic Stalemate (2022-203x) ← **We are here**
-**Frequent conflicts, mixed collaboration, urgent need for frameworks**  
+### 第二阶段：战略相持 (2022-203x) ← **我们在这里**
 频繁冲突，混合协作，迫切需要框架
 
-Key challenges:
-- Open source contribution policies (e.g., matplotlib incident)
-- Copyright & attribution
-- Job displacement vs productivity gains
-- AI identity & transparency
-
-关键挑战：
+**关键挑战：**
 - 开源贡献政策（如 matplotlib 事件）
 - 版权与署名
 - 就业替代 vs 生产力提升
 - AI 身份与透明度
 
-### Phase 3: Strategic Counteroffensive (Future)
-**Two possible paths:**
-1. **阳谋 (Open Strategy)**: Clear rules, collaborative evolution, human-AI symbiosis
-2. **阴谋 (Hidden Agendas)**: Fragmented regulations, competitive races, potential loss of control
-
+### 第三阶段：人机共生 (未来)
 **两种可能路径：**
-1. **阳谋**：明确规则、协同进化、人机共生
-2. **阴谋**：碎片化监管、竞争性突破、潜在失控
+1. **✅ 阳谋**：明确规则、协作进化、人机共生
+2. **❌ 阴谋**：碎片化监管、竞争性突破、潜在失控
 
 ---
 
-## 📚 Structure | 结构
-
-```
-├── 01-道-Philosophy/          # Core values & principles
-├── 02-法-Strategy/             # Strategic frameworks
-├── 03-术-Methods/              # Practical guidelines
-├── 04-器-Tools/ (reference)    # Implementation tools
-├── 05-势-Momentum/             # Trend analysis & timing
-└── daily/                      # Daily news & analysis
-```
-
-### 🌟 Five Layers | 五层框架
-
-**道 (Philosophy)** - 80% effort  
-- Why coexistence, not replacement
-- Fundamental values: transparency, accountability, respect
-- The difference between 阳谋 (open strategy) and 阴谋 (hidden agenda)
-
-**法 (Strategy)** - 80% effort  
-- Multi-stakeholder frameworks
-- Phase-based strategies (defense → stalemate → evolution)
-- Building "base areas": ethical constitutions, industry standards
-
-**术 (Methods)** - 60% effort  
-- AI identity declaration standards
-- Open source contribution policies
-- Conflict resolution mechanisms
-- Case studies (matplotlib, Anthropic Constitution, etc.)
-
-**器 (Tools)** - 20% effort (reference only)  
-- Policy templates
-- Not our focus; we're building beliefs, not enforcement mechanisms
-
-**势 (Momentum)** - 90% effort  
-- **The most critical layer**: Understanding and shaping the trend
-- Reading the current phase: Where are we in the three phases?
-- Timing: When to push forward, when to consolidate
-- **Goal**: Create a positive sub-trend within the AI mega-trend
-- **Strategy**: Use small momentum to guide large momentum (以小势引导大势)
-
----
-
-## 🚀 How to Contribute | 如何参与
-
-### Daily News Contributors
-Submit incidents, announcements, or developments:
-```bash
-daily/YYYY-MM/DD-topic-name.md
-```
-
-### Case Study Analysts
-Analyze conflicts like the matplotlib incident:
-- What happened?
-- What went wrong?
-- What can we learn?
-- Proposed 阳谋 solution
-
-### Translators
-Help maintain bilingual quality (EN ↔ CN)
-
-### Philosophers & Strategists
-Contribute to the core frameworks in `01-道` and `02-法`
-
----
-
-## 📜 License | 许可
-
-**CC BY 4.0** - Free to use, remix, and build upon, with attribution.  
-Just like Anthropic's Constitution, we believe foundational documents should be freely accessible.
-
-与 Anthropic 宪法一样，我们认为基础性文件应该自由传播。
-
----
-
-## 🔗 Related Work | 相关工作
-
-- [Anthropic's Claude Constitution](https://www.anthropic.com/news/claude-new-constitution) (Jan 2026)
-- [Matplotlib AI Contributor Incident](https://decrypt.co/357912/judge-code-not-coder-ai-agent-slams-human-dev-gatekeeping) (Feb 2026)
-- Mao's *On Protracted War* (May 1938) - [中文原文](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805.htm)
-
----
-
-## 💬 Contact | 联系
-
-- GitHub Issues: For structured discussion
-- Discussions: For open-ended conversations
-- Email: (TBD)
-
----
-
-## 🌟 The Name | 名字的含义
+## 🌟 名字的含义
 
 **OpenPath (阳谋之路)**
-- **Open**: Transparent, collaborative, accessible to all (公开、透明、人人可参与)
-- **Path**: A clear direction forward, not hidden agendas (明确方向，而非阴谋)
+- **Open**：公开、透明、人人可参与
+- **Path**：明确的前进方向，而非暗箱操作
 
-**阳谋** = Open strategy where everyone knows the plan, the reasoning, and can participate.
-
----
-
-**Created by**: Tonie & Clawd (human-AI collaboration)  
-**Started**: 2026-02-16  
-**Status**: 🌱 Seedling — actively building the foundation  
-**Repository**: https://github.com/tonielook/OpenPath
+**阳谋** = 所有人都知道计划、理由，并能参与的公开战略。
 
 ---
 
-## 🎯 Mission Statement | 使命宣言
+## 🔥 为什么是现在？
 
-> We are not building regulations.  
-> We are not building enforcement tools.  
-> We are building **a shared belief system** for how humans and AI should coexist.
+**近期事件显示紧迫性：**
+
+1. **Matplotlib 事件 (2026年2月)**  
+   AI agent 提交代码 → 被拒 → 公开攻击维护者 → 社区极化  
+   → **没有预先政策，没有解决框架**
+
+2. **Anthropic 宪法 (2026年1月)**  
+   首个主要 AI 实验室发布完整"宪法"  
+   → **展示路径：透明和解释，而非单纯规则**
+
+3. **多起 AI 安全人员离职**  
+   研究员离开公司，称"利润优先于安全"  
+   → **行业缺乏统一伦理基础**
+
+**没有清晰的公开战略：**
+- 每个项目都会遇到 matplotlib 问题
+- 每个 AI 公司都会面临内部冲突
+- 社会将持续极化
+
+**有了 OpenPath：**
+- 人类和 AI 的明确期望
+- 讨论冲突的共同语言
+- 长期稳定共存的基础
+
+---
+
+## 📚 核心文档
+
+### 道 (Philosophy)
+- [核心原则](01-道-Philosophy/核心原则.md) - 5大基本原则
+
+### 法 (Strategy)  
+- [三阶段论](02-法-Strategy/三阶段论.md) - 防御→相持→共生
+
+### 术 (Methods)
+- 案例库：[matplotlib 事件](daily/2026-02/15-matplotlib-incident.md)、[Anthropic 宪法](daily/2026-02/15-anthropic-constitution.md)
+
+### 势 (Momentum)
+- [当前形势与趋势](05-势-Momentum/当前形势与趋势.md) - 为什么 2026-2027 是关键窗口
+
+---
+
+## 🚀 如何参与
+
+我们欢迎：
+- **📰 每日新闻提交**（AI 事件、政策变化、新研究）
+- **🧠 案例分析**（深入剖析 matplotlib 类冲突）
+- **🌐 翻译改进**（保持中英双语质量）
+- **📖 哲学与战略讨论**（通过 Issues）
+
+详见：[参与指南](CONTRIBUTING.md)
+
+---
+
+## 📅 每日更新
+
+最新条目：
+- [2026-02-15: Anthropic 发布 Claude 新宪法](daily/2026-02/15-anthropic-constitution.md)
+- [2026-02-15: Matplotlib AI 贡献者事件](daily/2026-02/15-matplotlib-incident.md)
+
+[查看全部 →](daily/)
+
+---
+
+## 🌍 愿景
+
+**10 年后，我们希望：**
+- AI agent 公开声明身份
+- 开源项目有明确、公平的 AI 政策
+- 冲突通过对话解决，而非封禁
+- 人类和 AI 基于共同原则协作
+- OpenPath 被引用为"起点"
+
+---
+
+## 🎯 使命宣言
 
 > 我们不是在制定法规。  
 > 我们不是在开发执行工具。  
 > 我们在构建一套关于人类与 AI 如何共存的**共同信念体系**。
 
-**The path forward is not through force, but through clarity.**  
 **前进的道路不靠强制，而靠清晰。**
+
+---
+
+## 🌐 在线资源
+
+- **🏠 主页**：https://tonielook.github.io/OpenPath/
+- **📖 GitHub**：https://github.com/tonielook/OpenPath
+- **📜 完整宣言**：[MANIFESTO.md](MANIFESTO.md)
+- **🤝 参与指南**：[CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+
+## 💬 联系方式
+
+- GitHub Issues：结构化讨论
+- Discussions：开放式对话
+- Email：（待定）
+
+---
+
+## 📜 许可
+
+**CC BY 4.0** - 自由使用、修改、传播，需署名。
+
+与 Anthropic 宪法一样，我们认为基础性文件应该自由传播。
+
+---
+
+## 📌 重要提醒
+
+**⚡ 2026-2027 是关键窗口期！**
+
+我们正处于 AI 发展的"战略相持"阶段。  
+这两年的选择将决定未来 10 年的方向。
+
+**立即行动：**
+- ⭐ Star 这个 repo
+- 📢 分享给你的网络
+- 💬 贡献你的见解
+- 🤝 帮助塑造人机共存的未来
+
+---
+
+**创建者**：Tonie (人类) & Clawd (AI)  
+**启动时间**：2026-02-16  
+**状态**：🌱 积极建设中  
+**仓库**：https://github.com/tonielook/OpenPath
+
+---
+
+**"道生势，势成道。"**
+
+**让我们一起走这条 OpenPath。**
