@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="OpenPath: A living manifesto for transparent human-AI coexistence | 人机共存的阳谋之路">
+    <meta name="keywords" content="AI ethics, human-AI coexistence, open strategy, 阳谋, AI manifesto">
+    <title>OpenPath | 阳谋之路 - Human-AI Coexistence Manifesto</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #f59e0b;
+            --dark: #1e293b;
+            --light: #f8fafc;
+            --gray: #64748b;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            line-height: 1.7;
+            color: var(--dark);
+            background: linear-gradient(135deg, var(--light) 0%, #e0e7ff 100%);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        header {
+            text-align: center;
+            padding: 4rem 2rem;
+            background: linear-gradient(135deg, var(--primary) 0%, #7c3aed 100%);
+            color: white;
+            border-radius: 1rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 20px 60px rgba(37, 99, 235, 0.3);
+        }
+        
+        header h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+        
+        header .subtitle {
+            font-size: 1.5rem;
+            opacity: 0.95;
+            margin-bottom: 2rem;
+        }
+        
+        header .tagline {
+            font-size: 1.2rem;
+            font-style: italic;
+            opacity: 0.9;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .hero-buttons {
+            margin-top: 2rem;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            margin: 0.5rem;
+            background: white;
+            color: var(--primary);
+            text-decoration: none;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            transition: all 0.3s;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+        
+        .btn-secondary {
+            background: transparent;
+            color: white;
+            border: 2px solid white;
+        }
+        
+        .btn-secondary:hover {
+            background: white;
+            color: var(--primary);
+        }
+        
+        .section {
+            background: white;
+            padding: 3rem;
+            margin-bottom: 2rem;
+            border-radius: 1rem;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+        
+        .section h2 {
+            color: var(--primary);
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 3px solid var(--secondary);
+            padding-bottom: 0.5rem;
+        }
+        
+        .section h3 {
+            color: var(--dark);
+            font-size: 1.5rem;
+            margin: 2rem 0 1rem 0;
+        }
+        
+        .framework {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .layer {
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            text-align: center;
+            transition: all 0.3s;
+        }
+        
+        .layer:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+        }
+        
+        .layer-shi { background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); color: white; }
+        .layer-dao { background: linear-gradient(135deg, var(--primary) 0%, #1d4ed8 100%); color: white; }
+        .layer-fa { background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); color: white; }
+        .layer-shu { background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; }
+        .layer-qi { background: linear-gradient(135deg, var(--gray) 0%, #475569 100%); color: white; }
+        
+        .layer .icon {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .layer .name {
+            font-size: 1.3rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        
+        .layer .desc {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+        
+        .layer .effort {
+            margin-top: 0.5rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+        
+        .timeline {
+            position: relative;
+            padding-left: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: var(--primary);
+        }
+        
+        .timeline-item {
+            margin-bottom: 2rem;
+            padding-left: 2rem;
+            position: relative;
+        }
+        
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -0.6rem;
+            top: 0.3rem;
+            width: 1.2rem;
+            height: 1.2rem;
+            border-radius: 50%;
+            background: var(--secondary);
+            border: 3px solid white;
+            box-shadow: 0 0 0 3px var(--primary);
+        }
+        
+        .timeline-item.current::before {
+            background: #ef4444;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { box-shadow: 0 0 0 3px var(--primary), 0 0 0 6px rgba(239, 68, 68, 0.3); }
+            50% { box-shadow: 0 0 0 3px var(--primary), 0 0 0 12px rgba(239, 68, 68, 0); }
+        }
+        
+        .timeline-item h4 {
+            color: var(--primary);
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .timeline-item p {
+            color: var(--gray);
+        }
+        
+        .quote {
+            border-left: 4px solid var(--secondary);
+            padding-left: 1.5rem;
+            margin: 2rem 0;
+            font-style: italic;
+            color: var(--gray);
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, #fef3c7 0%, #fde68a 100%);
+            padding: 0.2rem 0.5rem;
+            border-radius: 0.25rem;
+            font-weight: 600;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--gray);
+            margin-top: 4rem;
+        }
+        
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            header h1 { font-size: 2.5rem; }
+            .framework { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🛤️ OpenPath</h1>
+            <div class="subtitle">阳谋之路 | The Open Path</div>
+            <div class="tagline">
+                "人机共存的战略指南：道法术器势"<br>
+                "A Strategic Guide for Human-AI Coexistence"
+            </div>
+            <div class="hero-buttons">
+                <a href="https://github.com/tonielook/OpenPath" class="btn">📖 View on GitHub</a>
+                <a href="https://github.com/tonielook/OpenPath/blob/main/MANIFESTO.md" class="btn btn-secondary">📜 Read Manifesto</a>
+            </div>
+        </header>
+
+        <div class="section">
+            <h2>🎯 What is OpenPath? | 这是什么？</h2>
+            <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">
+                A living manifesto for transparent human-AI coexistence, inspired by Mao's <em>On Protracted War</em> (《论持久战》).
+            </p>
+            <p style="font-size: 1.1rem;">
+                一个受《论持久战》启发的人机共存宣言，提供透明、协作、可持续的战略框架。
+            </p>
+            
+            <div class="quote">
+                "Judge the code, not the coder" — But who writes the rules?<br>
+                "评判代码，而非编码者" —— 但谁来制定规则？
+            </div>
+            
+            <p>
+                After the <strong>matplotlib AI contributor incident</strong> (Feb 2026) and <strong>Anthropic's Constitution</strong> release (Jan 2026), 
+                it's clear we need <span class="highlight">transparent frameworks</span>, not ad-hoc policies.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>🌟 Five Layers Framework | 五层框架</h2>
+            <p style="margin-bottom: 2rem;">OpenPath 用 <strong>道法术器势</strong> 五个层次分析和引导 AI 发展：</p>
+            
+            <div class="framework">
+                <div class="layer layer-shi">
+                    <div class="icon">🌊</div>
+                    <div class="name">势 Momentum</div>
+                    <div class="desc">形势判断<br>时机把握<br>趋势塑造</div>
+                    <div class="effort">⚡ 90% Focus</div>
+                </div>
+                
+                <div class="layer layer-dao">
+                    <div class="icon">☯️</div>
+                    <div class="name">道 Philosophy</div>
+                    <div class="desc">核心价值观<br>基本原则<br>阳谋vs阴谋</div>
+                    <div class="effort">🔥 80% Focus</div>
+                </div>
+                
+                <div class="layer layer-fa">
+                    <div class="icon">🎯</div>
+                    <div class="name">法 Strategy</div>
+                    <div class="desc">三阶段论<br>根据地建设<br>多方框架</div>
+                    <div class="effort">🔥 80% Focus</div>
+                </div>
+                
+                <div class="layer layer-shu">
+                    <div class="icon">🛠️</div>
+                    <div class="name">术 Methods</div>
+                    <div class="desc">具体指南<br>案例分析<br>冲突解决</div>
+                    <div class="effort">⚡ 60% Focus</div>
+                </div>
+                
+                <div class="layer layer-qi">
+                    <div class="icon">📦</div>
+                    <div class="name">器 Tools</div>
+                    <div class="desc">政策模板<br>实施工具<br>（仅参考）</div>
+                    <div class="effort">📝 20% Reference</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>📊 Three Phases | 三阶段论</h2>
+            <p style="margin-bottom: 2rem;">基于《论持久战》，我们将 AI 发展分为三个阶段：</p>
+            
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h4>第一阶段：人类主导 (2010s-2022)</h4>
+                    <p>Phase 1: Human Dominance</p>
+                    <p>AI 作为工具，人类完全掌控</p>
+                </div>
+                
+                <div class="timeline-item current">
+                    <h4>第二阶段：战略相持 (2022-203x) ← 我们在这里</h4>
+                    <p>Phase 2: Strategic Stalemate ← We Are Here</p>
+                    <p><strong>特征：</strong>频繁冲突、混合协作、迫切需要框架</p>
+                    <p><strong>关键：</strong>2026-2027 是黄金窗口期，必须建立透明框架！</p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4>第三阶段：人机共生 (203x+)</h4>
+                    <p>Phase 3: Human-AI Symbiosis</p>
+                    <p><strong>两种可能：</strong><br>
+                    ✅ 阳谋胜利：明确规则、协作进化<br>
+                    ❌ 阴谋失败：混乱监管、社会撕裂</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🔥 Why This Matters NOW | 为什么是现在</h2>
+            
+            <h3>Recent Events Show the Urgency</h3>
+            <ul style="font-size: 1.1rem; line-height: 2;">
+                <li><strong>Matplotlib Incident (Feb 2026):</strong> AI agent rejected → public attack → no framework to resolve</li>
+                <li><strong>Anthropic Constitution (Jan 2026):</strong> First major AI lab publishes transparent values</li>
+                <li><strong>Countless conflicts:</strong> Copyright, jobs, academic integrity, open source...</li>
+            </ul>
+            
+            <div class="quote">
+                Without transparent strategy, every project will face the matplotlib problem.<br>
+                With OpenPath, we provide a reference framework.
+            </div>
+            
+            <p style="font-size: 1.2rem; margin-top: 2rem; color: #ef4444; font-weight: 600;">
+                🔴 Critical Window: 2026-2027 — The golden period to shape AI development direction!
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>🎯 Core Principles | 核心原则</h2>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+                <div style="padding: 1.5rem; background: #eff6ff; border-radius: 0.5rem;">
+                    <h3 style="color: var(--primary); margin-top: 0;">1️⃣ 持久战，非速胜</h3>
+                    <p>This is a Protracted War<br>AI 发展需要 5-10 年，而非 1-2 年</p>
+                </div>
+                
+                <div style="padding: 1.5rem; background: #fef3c7; border-radius: 0.5rem;">
+                    <h3 style="color: #f59e0b; margin-top: 0;">2️⃣ 阳谋，非阴谋</h3>
+                    <p>Open Strategy, Not Hidden Agendas<br>透明讨论、公开规则、多方参与</p>
+                </div>
+                
+                <div style="padding: 1.5rem; background: #dcfce7; border-radius: 0.5rem;">
+                    <h3 style="color: #10b981; margin-top: 0;">3️⃣ 共存，非对抗</h3>
+                    <p>Coexistence, Not Conflict<br>人类与 AI 不是敌我关系</p>
+                </div>
+                
+                <div style="padding: 1.5rem; background: #f3e8ff; border-radius: 0.5rem;">
+                    <h3 style="color: #8b5cf6; margin-top: 0;">4️⃣ 责任，不可推</h3>
+                    <p>Accountability is Non-Negotiable<br>AI 运营者必须承担最终责任</p>
+                </div>
+                
+                <div style="padding: 1.5rem; background: #fce7f3; border-radius: 0.5rem;">
+                    <h3 style="color: #ec4899; margin-top: 0;">5️⃣ 演化，非革命</h3>
+                    <p>Evolution, Not Revolution<br>逐步适应，持续迭代</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🚀 Get Involved | 如何参与</h2>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+                <div>
+                    <h3>📰 Submit News</h3>
+                    <p>Share AI incidents, policy changes, or developments</p>
+                </div>
+                
+                <div>
+                    <h3>🧠 Analyze Cases</h3>
+                    <p>Deep dive into conflicts like matplotlib</p>
+                </div>
+                
+                <div>
+                    <h3>📖 Contribute Ideas</h3>
+                    <p>Philosophy, strategy, or method proposals</p>
+                </div>
+                
+                <div>
+                    <h3>🌐 Translate</h3>
+                    <p>Help maintain bilingual quality (EN ↔ CN)</p>
+                </div>
+            </div>
+            
+            <div style="text-align: center; margin-top: 3rem;">
+                <a href="https://github.com/tonielook/OpenPath/blob/main/CONTRIBUTING.md" class="btn">
+                    📝 Read Contribution Guide
+                </a>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🌍 The Vision | 愿景</h2>
+            
+            <p style="font-size: 1.2rem; margin-bottom: 1.5rem;">
+                <strong>10 years from now, we hope:</strong>
+            </p>
+            
+            <ul style="font-size: 1.1rem; line-height: 2;">
+                <li>✅ AI agents openly declare their identity</li>
+                <li>✅ Open source projects have clear, fair AI policies</li>
+                <li>✅ Conflicts resolved through dialogue, not bans</li>
+                <li>✅ Humans and AI collaborate on shared principles</li>
+                <li>✅ OpenPath is cited as "the starting point"</li>
+            </ul>
+            
+            <div class="quote" style="font-size: 1.2rem; margin-top: 2rem;">
+                "The path forward is not through force, but through clarity."<br>
+                "前进的道路不靠强制，而靠清晰。"
+            </div>
+        </div>
+
+        <div class="section" style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); border: 3px solid var(--secondary);">
+            <h2 style="color: #92400e;">⚡ Critical Momentum Window | 关键时刻</h2>
+            <p style="font-size: 1.3rem; font-weight: 600; color: #92400e;">
+                🔴 2026-2027 is the decisive period for AI development direction.
+            </p>
+            <p style="font-size: 1.1rem; margin-top: 1rem;">
+                <strong>Act now:</strong><br>
+                • Star the repo to show support<br>
+                • Share with your network<br>
+                • Contribute your insights<br>
+                • Help shape the future of human-AI coexistence
+            </p>
+            <div style="text-align: center; margin-top: 2rem;">
+                <a href="https://github.com/tonielook/OpenPath" class="btn" style="font-size: 1.2rem; padding: 1.2rem 2.5rem;">
+                    ⭐ Star on GitHub
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>
+            Created by Tonie (human) & Clawd (AI) | 
+            <a href="https://github.com/tonielook/OpenPath">GitHub</a> | 
+            <a href="https://github.com/tonielook/OpenPath/blob/main/CONTRIBUTING.md">Contribute</a> | 
+            License: CC BY 4.0
+        </p>
+        <p style="margin-top: 1rem; font-size: 0.9rem;">
+            Started: 2026-02-16 | Status: 🌱 Actively building
+        </p>
+    </footer>
+</body>
+</html>
