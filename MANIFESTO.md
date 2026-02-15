@@ -291,3 +291,72 @@ Latest entries:
 **Created by**: Tonie & Clawd (human-AI collaboration)  
 **Started**: 2026-02-16  
 **Status**: 🌱 Actively building
+
+---
+
+## 六、把握"势"，造福人类 | Understand and Shape Momentum
+
+### 中文
+
+**"势"** 是道法术器之上的第五层，也是最难把握的一层。
+
+《孙子兵法》云：
+> "善战者，求之于势，不责于人"
+
+《论持久战》的核心就是对"势"的分析：
+> "战争的长期性和残酷性，规定了游击战争不能不做许多异乎寻常的事情"
+
+**在 AI 发展中，"势"是什么？**
+
+**大势（不可逆）：**
+- AI 技术持续进步 📈
+- 应用范围不断扩大 🌍  
+- 社会冲突日益频繁 ⚠️
+- 监管逐渐介入 🏛️
+
+**我们无法改变这个大势，但可以在其中创造一个"子势"：**
+- 通过持续的案例分析 → 形成参考标准
+- 通过透明的讨论 → 建立信任
+- 通过早期行动 → 占据理念制高点
+- **最终目标：让"阳谋"成为 AI 发展的主流子趋势**
+
+**关键认识：**
+1. **时机至关重要** - 2026-2027 是黄金窗口
+2. **以小引大** - 小的 OpenPath 影响大的 AI 发展
+3. **顺势而为** - 不是对抗大势，而是引导方向
+4. **造势** - 从被动适应到主动塑造
+
+### English
+
+**势 (Momentum)** is the fifth layer above 道法术器, and the hardest to grasp.
+
+Sun Tzu wrote:
+> "The skillful commander seeks victory from the situation, not from individuals"
+
+*On Protracted War* is fundamentally about analyzing 势:
+> "The protracted and cruel nature determines what must be done"
+
+**In AI development, what is 势?**
+
+**Macro-momentum (irreversible):**
+- AI capabilities continue improving 📈
+- Applications constantly expanding 🌍
+- Social conflicts intensifying ⚠️
+- Regulation gradually emerging 🏛️
+
+**We can't change this macro-trend, but we can create a "sub-trend" within it:**
+- Through continuous case analysis → form reference standards
+- Through transparent discussion → build trust
+- Through early action → seize ideological high ground
+- **Ultimate goal: Make 阳谋 the dominant sub-trend in AI development**
+
+**Key insights:**
+1. **Timing is critical** - 2026-2027 is the golden window
+2. **Small guides large** - Small OpenPath influences large AI development
+3. **Align with momentum** - Don't fight the trend, guide its direction
+4. **Create momentum** - From passive adaptation to active shaping
+
+---
+
+**The conversation must start NOW. The momentum window is open.**  
+**对话必须从现在开始。势的窗口期已经打开。**

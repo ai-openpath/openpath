@@ -81,10 +81,11 @@ Key challenges:
 ├── 02-法-Strategy/             # Strategic frameworks
 ├── 03-术-Methods/              # Practical guidelines
 ├── 04-器-Tools/ (reference)    # Implementation tools
+├── 05-势-Momentum/             # Trend analysis & timing
 └── daily/                      # Daily news & analysis
 ```
 
-### 🌟 Focus Areas | 重点领域
+### 🌟 Five Layers | 五层框架
 
 **道 (Philosophy)** - 80% effort  
 - Why coexistence, not replacement
@@ -105,6 +106,13 @@ Key challenges:
 **器 (Tools)** - 20% effort (reference only)  
 - Policy templates
 - Not our focus; we're building beliefs, not enforcement mechanisms
+
+**势 (Momentum)** - 90% effort  
+- **The most critical layer**: Understanding and shaping the trend
+- Reading the current phase: Where are we in the three phases?
+- Timing: When to push forward, when to consolidate
+- **Goal**: Create a positive sub-trend within the AI mega-trend
+- **Strategy**: Use small momentum to guide large momentum (以小势引导大势)
 
 ---
 
