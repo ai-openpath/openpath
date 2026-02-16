@@ -36,6 +36,12 @@
   （通过博弈论实现安全对齐）
 - **Capability-Oriented Training Induced Alignment Risk** - https://arxiv.org/abs/2602.12124v1  
   （能力导向训练引发的对齐风险分析）
+- **AI Safety, Alignment, and Ethics (AI SAE)** - https://arxiv.org/abs/2509.24065  
+  （批评后置伦理，提倡嵌入式演化策略）
+- **Mind the Gap! Pathways Towards Unifying AI Safety and Ethics** - https://arxiv.org/abs/2512.10058  
+  （整合技术安全与规范伦理的跨学科方法）
+- **Legal Alignment for Safe and Ethical AI** - https://arxiv.org/abs/2601.04175  
+  （将法律规则应用于 AI alignment 问题）
 
 ### 人机协作实践
 - （从案例中提取，待收集）
