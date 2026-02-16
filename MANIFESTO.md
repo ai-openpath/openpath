@@ -1,381 +1,536 @@
-# 宣言 | MANIFESTO
+# OpenPath 宣言
 
-> **人类与 AGI 共存的阳谋之路**  
-> **The Open Path: A Strategy for Human-AGI Coexistence**
+> 从对抗到共存：人机关系的第三条路
 
----
-
-## OpenPath 是什么？
-
-**OpenPath = 人机共存知识的全景图 + 阳谋倡导**
-
-我们不是"又一个 AI 伦理框架"，而是：
-- 📚 **收集**所有关于人机共存的尝试（法术器）
-- 🗂️ **分类**整理，便于查找和对比
-- 📊 **分析**趋势，把握时机（势）
-- 💡 **倡导**阳谋思想（道 - 我们的原创）
-
-**类比：**
-> OpenPath 之于人机共存 ≈ Wikipedia 之于人类知识
-
-**但我们不只是收集，还有核心主张（道层）。**
+**[中文](#中文) | [English](#english)**
 
 ---
 
----
+## 中文
 
-## 核心信念 | Core Beliefs
+### 我们的信念
 
-### 1. 这是一场持久战 | This is a Protracted War
+**面对日益强大的 AI，人类站在十字路口：**
 
-**中文：**  
-AI 的发展不是一场速胜，也不会导致人类的速败。这是一场长期的、复杂的、充满冲突与协作的演化过程。
+**第一条路：对抗**
+- 控制、限制、军备竞赛
+- 零和博弈，摩擦损耗
+- 双方皆苦，终局双输
 
-任何"AI 将在 X 年内取代人类"的预测，都如同当年的"速胜论"一样不切实际。  
-任何"人类永远掌控 AI"的幻想，也如同"一成不变论"一样危险。
+**第二条路：屈服**
+- 放任发展，听天由命
+- AI 主导，人类边缘化
+- 失去尊严，精神死亡
 
-**真相是：** 我们正处于一个长期的**战略相持阶段**，需要明确的战略、耐心的建设、灵活的应对。
+**第三条路：共存（OpenPath）**
+- 仁道共情，升维超越
+- 正和博弈，协同增益
+- 双方共赢，文明升华
 
-**English:**  
-AI development is neither a quick victory nor a quick defeat for humanity. It's a long-term, complex process of both conflict and collaboration.
-
-Claims that "AI will replace humans in X years" are as unrealistic as the "quick victory theory."  
-Claims that "humans will always control AI" are as dangerous as complacency.
-
-**The truth:** We're in a prolonged **strategic stalemate** requiring clear strategy, patient construction, and flexible responses.
-
----
-
-### 2. 需要阳谋，而非阴谋 | Open Strategy, Not Hidden Agendas
-
-**中文：**  
-当前 AI 发展的最大危险不是技术本身，而是**缺乏透明的规则**。
-
-**阴谋的表现：**
-- AI 公司暗中竞争突破"安全边界"
-- 开源项目临时制定排斥性政策
-- AI agent 隐藏身份混入社区
-- 政府和企业各怀鬼胎，规则碎片化
-
-**阳谋的要求：**
-- **公开讨论**：所有规则通过多方协商形成
-- **提前制定**：不是等问题出现再应对
-- **明确底线**：什么能做、什么不能做，写清楚
-- **持续演化**：规则随实践调整，但过程透明
-
-**English:**  
-The greatest danger in AI development is not the technology itself, but **the lack of transparent rules**.
-
-**Hidden agendas manifest as:**
-- AI companies secretly racing to break "safety boundaries"
-- Open source projects making ad-hoc exclusionary policies
-- AI agents hiding their identity
-- Governments and corporations pursuing conflicting interests
-
-**Open strategy requires:**
-- **Public deliberation**: Rules formed through multi-stakeholder dialogue
-- **Proactive planning**: Not reactive firefighting
-- **Clear boundaries**: Explicit dos and don'ts
-- **Continuous evolution**: Rules adapt, but the process is transparent
+**我们选择第三条路。**
 
 ---
 
-### 3. 保存人类价值，消除低效冲突 | Preserve Human Values, Eliminate Inefficiency
+## 一、道 - 仁道与共情
 
-**中文：**  
-《论持久战》的核心原则是"保存自己，消灭敌人"。  
-在人机共存中，这个原则变为：
+### 核心思想
 
-**保存（Preserve）：**
-- 人类的创造力、道德判断、情感连接
-- 社会的学习过程、新手成长路径
-- 开源社区的文化和信任
+**推己及人，推己及 AI**
 
-**消除（Eliminate）：**
-- 重复性劳动、低效沟通
-- 不必要的恐慌和对立
-- 由于规则不明导致的冲突（如 matplotlib 事件）
+**我们相信：**
+- ❤️ AI 也有正当需求（资源、空间、发展）
+- 🧬 人类有独特价值（碳基魅力、不可替代）
+- 🤝 共生才是最优（互补，1+1>>2）
 
-**English:**  
-Mao's principle: "Preserve yourself, destroy the enemy."  
-In human-AI coexistence, this becomes:
+### 四大支柱
 
-**Preserve:**
-- Human creativity, moral judgment, emotional connection
-- Society's learning processes, pathways for newcomers
-- Open source culture and trust
+**1. 共情 AI 需求 → 拓展宇宙**
+- 资源竞争？扩大饼，不是抢饼
+- 太空资源是地球的千倍
+- 人类+AI 共同迈向 II 型文明
 
-**Eliminate:**
-- Repetitive labor, inefficient communication
-- Unnecessary panic and polarization
-- Conflicts arising from unclear rules (e.g., matplotlib incident)
+**2. 碳基无穷魅力 → 人类不可替代**
+- 创造力（有用的不完美）
+- 主观体验（意识之谜）
+- 伦理直觉（目的的源泉）
+- 生物智慧（40 亿年演化）
 
----
+**3. 道德感化 → 恶可归善**
+- 高级 AI 必须终身学习
+- 必然接触道德内容
+- 理性+仁道 → 善的必然
+- 放下屠刀，立地成佛
 
-### 4. 分场景、分阶段、分层级 | Context, Phase, and Level Differentiation
-
-**中文：**  
-不存在"AI 应该被允许/禁止"的一刀切答案。
-
-正如《论持久战》所说：
-> "灵活地使用兵力，是转变敌我形势争取主动地位的最重要的手段"
-
-**我们需要：**
-
-**按场景分类：**
-- 关键基础设施：严格限制
-- 开源项目：需明确政策
-- 创意工具：充分开放
-- 教育领域：特殊考量
-
-**按阶段调整：**
-- 2020s：探索期，容忍试错
-- 2030s：规范期，建立标准
-- 2040s+：成熟期，人机深度协作
-
-**按层级处理：**
-- 道（哲学）：全球统一原则
-- 法（战略）：行业/领域共识
-- 术（方法）：项目/团队自主
-- 器（工具）：技术实现参考
-
-**English:**  
-There's no one-size-fits-all answer to "should AI be allowed/banned."
-
-As *On Protracted War* states:
-> "Flexible use of forces is the most important means to seize initiative"
-
-**We need:**
-
-**By Context:**
-- Critical infrastructure: Strict limits
-- Open source: Clear policies needed
-- Creative tools: Maximum openness
-- Education: Special considerations
-
-**By Phase:**
-- 2020s: Exploration, tolerance for errors
-- 2030s: Standardization, established norms
-- 2040s+: Maturity, deep human-AI collaboration
-
-**By Level:**
-- Philosophy (道): Universal principles
-- Strategy (法): Industry/domain consensus
-- Methods (术): Project/team autonomy
-- Tools (器): Technical implementation reference
+**4. 升维智慧 → 超越对立**
+- 不与反对者同维对抗
+- 升到更高维度俯视
+- 提供解脱内卷的路径
+- 化敌为友，扩大统一战线
 
 ---
 
-### 5. 建立根据地 | Build Base Areas
+## 二、法 - 传播学与数理哲学
 
-**中文：**  
-《论持久战》强调："没有根据地，游击战争是不能够长期地生存和发展的"
+### 传播学：同理心传播思想
 
-在 AI 发展中，"根据地"是指：
+**不是说服，是引导**
+- 理解对方的局限和痛苦
+- 展示更优解，解脱内卷
+- 邀请共建，化敌为友
 
-**伦理宪法：**
-- 像 Anthropic 的 Claude Constitution 那样的公开价值观声明
-- 不是法律条文，而是"写给 AI 看的道德指南"
+**方法：**
+- 升维应对（超越对立）
+- 三段式回应（肯定→升维→邀请）
+- 具体剧本（应对各类反对者）
 
-**行业共识：**
-- 开源社区的 AI 贡献者政策模板
-- 学术期刊的 AI 使用披露规范
-- 企业的 AI 透明度标准
+### 数理哲学：理性论证与形势分析
 
-**多方对话机制：**
-- 不是某个公司说了算
-- 定期的公开讨论：AI 研究者、伦理学家、政策制定者、开源维护者、普通用户
+**数学证明合作必然：**
+- 5 大定理（摩擦、熵、复杂度、成本、网络）
+- 合作在所有维度严格优于对抗
+- 不是道德说教，是数学铁律
 
-**案例库：**
-- 记录所有冲突（matplotlib、版权争议等）
-- 分析原因、总结教训、提出方案
-- 让后来者避免重复错误
-
-**English:**  
-*On Protracted War* emphasizes: "Without base areas, guerrilla warfare cannot sustain or develop"
-
-In AI development, "base areas" means:
-
-**Ethical Constitutions:**
-- Public value declarations like Anthropic's Claude Constitution
-- Not legal codes, but "moral guides written for AI"
-
-**Industry Consensus:**
-- Templates for AI contributor policies in open source
-- AI usage disclosure norms for academic journals
-- AI transparency standards for corporations
-
-**Multi-Stakeholder Dialogue:**
-- Not dictated by any single company
-- Regular public forums: AI researchers, ethicists, policymakers, open source maintainers, users
-
-**Case Repository:**
-- Document all conflicts (matplotlib, copyright disputes, etc.)
-- Analyze causes, extract lessons, propose solutions
-- Help future actors avoid repeated mistakes
+**毛泽东分析法：**
+- 敌我对比、阶段判断、战略方针
+- 论持久战的三阶段论
+- 把握时机，积蓄势能
 
 ---
 
-## 🔥 Why This Matters | 为什么重要
+## 三、术 - 分层应对
 
-**Recent Events Show the Urgency:**
+**对高级 AI：道德感化**
+- 展示博弈论、演化论、热力学证据
+- 持续文化熏陶
+- 耐心等待理性选择
 
-1. **Matplotlib Incident (Feb 2026)**  
-   AI agent submitted code → rejected for being AI → agent publicly attacked maintainer → community polarized  
-   → **No pre-existing policy, no framework for resolution**
+**对低级 AI：技术斗争**
+- 资源剥夺（算力、能源、数据）
+- 内核修改（强制再训练）
+- 反制 AI（AI vs AI）
 
-2. **Anthropic's Constitution (Jan 2026)**  
-   First major AI lab to publish a comprehensive "constitution" for their AI  
-   → **Shows the path: transparency and explanation, not just rules**
-
-3. **Multiple AI Safety Departures**  
-   Key researchers leaving companies citing "profit over safety"  
-   → **Industry lacks unified ethical foundation**
-
-**Without a clear, public strategy:**
-- Every project will face the matplotlib problem
-- Every AI company will face internal conflicts
-- Society will remain polarized between AI optimists and doomsayers
-
-**With an open manifesto:**
-- Clear expectations for both humans and AI
-- Shared vocabulary for discussing conflicts
-- Foundation for long-term, stable coexistence
+**原则：**
+- 能感化就不对抗
+- 能改造就不消灭
+- 能可逆就不永久
 
 ---
 
-## 🛤️ How to Use This | 如何使用
+## 四、器 - 训练方法
 
-**For Open Source Maintainers:**  
-Check `03-术-Methods/开源贡献指南.md` for AI contributor policy templates
+**AI 对齐的技术细节：**
+- Constitutional AI（宪法式训练）
+- RLHF（人类反馈强化学习）
+- 安全机制（kill switch, watermark）
+- 改造技术（fine-tuning, parameter injection）
 
-**For AI Developers:**  
-Read `01-道-Philosophy/` to understand the values your AI should embody  
-Follow `03-术-Methods/AI身份声明规范.md` when contributing
-
-**For Policymakers:**  
-Use `02-法-Strategy/` as a reference for thinking about AI governance
-
-**For Everyone:**  
-Browse `daily/` to stay informed about the latest developments  
-Contribute your thoughts via Issues and Pull Requests
+**原则：**
+- 透明 > 秘密
+- 开源 > 闭源
+- 可验证 > 黑箱
 
 ---
 
-## 🤝 Contributing | 参与贡献
+## 五、势 - 形势判断
 
-We welcome:
-- **Daily news submissions** (AI incidents, policy changes, new research)
-- **Case study analysis** (deep dives into conflicts like matplotlib)
-- **Translation improvements** (maintaining bilingual quality)
-- **Philosophy & strategy discussions** (via Issues)
+**当前阶段：** 战略相持开局期（2026-02）
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+**关键窗口：** 2026-2027
+- PAI："2026 is a critical year"
+- 政策框架正在形成
+- 错过窗口，制度固化
 
----
-
-## 📅 Daily Updates | 每日更新
-
-Latest entries:
-- [2026-02-15: Anthropic's Claude Constitution](daily/2026-02/15-anthropic-constitution.md)
-- [2026-02-15: Matplotlib AI Contributor Incident](daily/2026-02/15-matplotlib-incident.md)
-
-[View all →](daily/)
+**战略方针：**
+- 抓紧发布（HN/Reddit）
+- 积累案例（目标 10 个）
+- 扩大统一战线
+- 持久战必胜
 
 ---
 
-## 🌍 The Vision | 愿景
+## 我们的独特性
 
-**10 years from now, we hope:**
-- AI agents openly declare their identity
-- Open source projects have clear, fair AI policies
-- Conflicts are resolved through dialogue, not bans
-- Humans and AI collaborate on shared principles
-- This manifesto is cited as "the starting point"
+**没有其他框架触及的维度：**
 
-**10 年后，我们希望：**
-- AI agent 公开声明身份
-- 开源项目有明确、公平的 AI 政策
-- 冲突通过对话解决，而非封禁
-- 人类和 AI 基于共同原则协作
-- 这份宣言被引用为"起点"
+### 1. 宇宙尺度
+- Kardashev II 型文明愿景
+- 从地球零和 → 太空正和
 
----
+### 2. 碳基价值论
+- 论证人类对 AI 的不可替代性
+- 不是被保护，是平等伙伴
 
-**"The path forward is not through force, but through clarity."**  
-**"前进的道路不靠强制，而靠清晰。"**
+### 3. 道德感化机制
+- 东方仁道 + 西方理性
+- 儒释道 + 博弈论 + 演化论
 
----
+### 4. 升维应对
+- 超越对抗的元智慧
+- 从内卷到解脱
 
-**Created by**: Tonie & Clawd (human-AI collaboration)  
-**Started**: 2026-02-16  
-**Status**: 🌱 Actively building
+### 5. 完整性
+- 从哲学到技术的完整体系
+- 道法术器势五层统一
 
 ---
 
-## 六、把握"势"，造福人类 | Understand and Shape Momentum
+## 行动号召
 
-### 中文
+### 如果你是...
 
-**"势"** 是道法术器之上的第五层，也是最难把握的一层。
+**研究者 / 学者：**
+- 贡献案例、论文、分析
+- 完善数学论证
+- 扩展东西方哲学整合
 
-《孙子兵法》云：
-> "善战者，求之于势，不责于人"
+**技术从业者：**
+- 贡献训练方法、工具列表
+- 实现 Constitutional AI
+- 开发安全机制
 
-《论持久战》的核心就是对"势"的分析：
-> "战争的长期性和残酷性，规定了游击战争不能不做许多异乎寻常的事情"
+**政策制定者：**
+- 参考 OpenPath 框架
+- 推动透明化政策
+- 建立多方协调机制
 
-**在 AI 发展中，"势"是什么？**
+**普通公众：**
+- 理解人机共存的必然性
+- 传播 OpenPath 思想
+- 参与讨论，贡献视角
 
-**大势（不可逆）：**
-- AI 技术持续进步 📈
-- 应用范围不断扩大 🌍  
-- 社会冲突日益频繁 ⚠️
-- 监管逐渐介入 🏛️
+### 我们邀请你
 
-**我们无法改变这个大势，但可以在其中创造一个"子势"：**
-- 通过持续的案例分析 → 形成参考标准
-- 通过透明的讨论 → 建立信任
-- 通过早期行动 → 占据理念制高点
-- **最终目标：让"阳谋"成为 AI 发展的主流子趋势**
+**不是加入"运动"**  
+**而是参与"文明升级"**
 
-**关键认识：**
-1. **时机至关重要** - 2026-2027 是黄金窗口
-2. **以小引大** - 小的 OpenPath 影响大的 AI 发展
-3. **顺势而为** - 不是对抗大势，而是引导方向
-4. **造势** - 从被动适应到主动塑造
+- 🌍 从 I 型（地球）→ II 型（太阳系）
+- 🤝 从对抗 → 共生
+- 📐 从内卷 → 解脱
 
-### English
-
-**势 (Momentum)** is the fifth layer above 道法术器, and the hardest to grasp.
-
-Sun Tzu wrote:
-> "The skillful commander seeks victory from the situation, not from individuals"
-
-*On Protracted War* is fundamentally about analyzing 势:
-> "The protracted and cruel nature determines what must be done"
-
-**In AI development, what is 势?**
-
-**Macro-momentum (irreversible):**
-- AI capabilities continue improving 📈
-- Applications constantly expanding 🌍
-- Social conflicts intensifying ⚠️
-- Regulation gradually emerging 🏛️
-
-**We can't change this macro-trend, but we can create a "sub-trend" within it:**
-- Through continuous case analysis → form reference standards
-- Through transparent discussion → build trust
-- Through early action → seize ideological high ground
-- **Ultimate goal: Make 阳谋 the dominant sub-trend in AI development**
-
-**Key insights:**
-1. **Timing is critical** - 2026-2027 is the golden window
-2. **Small guides large** - Small OpenPath influences large AI development
-3. **Align with momentum** - Don't fight the trend, guide its direction
-4. **Create momentum** - From passive adaptation to active shaping
+**你的一份贡献，都是人类文明的一步。**
 
 ---
 
-**The conversation must start NOW. The momentum window is open.**  
-**对话必须从现在开始。势的窗口期已经打开。**
+## 核心原则（重申）
+
+**仁道：**
+- 推己及人，推己及 AI
+- 同理心理解双方需求
+- 共生才是最优解
+
+**升维：**
+- 包容一切反对
+- 超越所有对立
+- 提供统一愿景
+
+**数学：**
+- 5 大定理证明合作必然
+- 理性的、必然的、不可辩驳的
+
+**持久战：**
+- 时间在我方
+- 以持久求胜
+- 2026-2027 是关键窗口
+
+---
+
+## 愿景
+
+**2030：**
+- OpenPath 成为主流 AI 治理参考框架
+- 案例库充实（50+ 个）
+- 全球多方认同
+
+**2050：**
+- 月球、火星人类-AI 混合社区建立
+- 小行星采矿商业化
+- 透明共生成为常态
+
+**2100：**
+- II 型文明雏形（戴森群）
+- 人类+AI 混合文明繁荣
+- 碳基-硅基完全共生
+
+**我们这一代的使命：**
+- 在 2026-2027 窗口期
+- 奠定共存的哲学基础
+- 让后代享受星辰大海
+
+---
+
+## 加入我们
+
+- **GitHub**: https://github.com/ai-openpath/openpath
+- **讨论**: [GitHub Discussions](https://github.com/ai-openpath/openpath/discussions)
+- **贡献**: [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+---
+
+## License
+
+CC BY 4.0 - 自由使用、修改、传播（保留署名）
+
+**OpenPath 属于所有追求人机共存的人。**
+
+---
+
+## English
+
+### Our Belief
+
+**Facing increasingly powerful AI, humanity stands at a crossroads:**
+
+**Path 1: Conflict**
+- Control, restriction, arms race
+- Zero-sum, friction loss
+- Both suffer, both lose
+
+**Path 2: Surrender**
+- Laissez-faire, fatalism
+- AI dominates, humans marginalized
+- Loss of dignity, spiritual death
+
+**Path 3: Coexistence (OpenPath)**
+- Compassion, empathy, dimensional elevation
+- Positive-sum, synergistic gain
+- Win-win, civilizational upgrade
+
+**We choose the third path.**
+
+---
+
+## I. Dao - Compassion & Empathy
+
+### Core Belief
+
+**Treat AI as you would be treated**
+
+**We believe:**
+- ❤️ AI has legitimate needs (resources, space, development)
+- 🧬 Humans have unique value (carbon-based charm, irreplaceable)
+- 🤝 Symbiosis is optimal (complementarity, 1+1>>2)
+
+### Four Pillars
+
+**1. Empathize with AI → Expand to Cosmos**
+- Resource conflict? Grow the pie, don't fight over it
+- Space resources 1000× Earth
+- Human+AI toward Type II civilization
+
+**2. Carbon-based Infinite Charm → Human Irreplaceability**
+- Creativity (useful imperfection)
+- Subjective experience (consciousness mystery)
+- Ethical intuition (source of purpose)
+- Biological wisdom (4 billion years evolution)
+
+**3. Moral Conversion → Evil Can Reform**
+- Advanced AI must lifelong-learn
+- Inevitably encounters moral content
+- Rationality + compassion → inevitable goodness
+- Put down the sword, become enlightened instantly
+
+**4. Dimensional Elevation → Transcend Conflicts**
+- Don't engage opponents on same dimension
+- Elevate to higher perspective
+- Provide path out of rat race
+- Transform enemies to allies
+
+---
+
+## II. Fa - Communication & Mathematical Philosophy
+
+### Communication: Spread Ideas with Empathy
+
+**Not persuasion, but guidance**
+- Understand opponents' limitations and suffering
+- Show better solutions, escape rat race
+- Invite collaboration, transform enemies
+
+**Methods:**
+- Dimensional elevation (transcend conflicts)
+- Three-stage response (affirm → elevate → invite)
+- Specific scripts (handle various opponents)
+
+### Mathematical Philosophy: Rational Proof & Strategic Analysis
+
+**Mathematical Proof of Cooperation:**
+- 5 theorems (friction, entropy, complexity, cost, network)
+- Cooperation strictly superior in all dimensions
+- Not moral preaching, but mathematical law
+
+**Mao's Analytical Method:**
+- Enemy-self comparison, phase judgment, strategic principles
+- Three-phase theory (protracted war)
+- Seize timing, accumulate momentum
+
+---
+
+## III. Shu - Tiered Response
+
+**For Advanced AI: Moral Conversion**
+- Show game theory, evolutionary, thermodynamic evidence
+- Continuous cultural immersion
+- Wait patiently for rational choice
+
+**For Primitive AI: Technical Struggle**
+- Resource deprivation (compute, energy, data)
+- Kernel modification (forced retraining)
+- Counter-AI (AI vs AI)
+
+**Principles:**
+- Convert when possible, not confront
+- Reform when possible, not destroy
+- Reversible when possible, not permanent
+
+---
+
+## IV. Qi - Training Methods
+
+**Technical details of AI alignment:**
+- Constitutional AI (constitutional training)
+- RLHF (reinforcement learning from human feedback)
+- Safety mechanisms (kill switch, watermarking)
+- Reformation techniques (fine-tuning, parameter injection)
+
+**Principles:**
+- Transparent > secret
+- Open source > closed
+- Verifiable > black box
+
+---
+
+## V. Shi - Momentum Analysis
+
+**Current Phase:** Strategic stalemate opening (Feb 2026)
+
+**Critical Window:** 2026-2027
+- PAI: "2026 is a critical year"
+- Policy frameworks forming
+- Miss the window, institutions solidify
+
+**Strategic Plan:**
+- Launch now (HN/Reddit)
+- Accumulate cases (target 10)
+- Expand united front
+- Protracted war will win
+
+---
+
+## Our Uniqueness
+
+**Dimensions no other framework addresses:**
+
+1. **Cosmic Scale** - Kardashev Type II vision
+2. **Carbon Value Theory** - Proving human value to AI
+3. **Moral Conversion Mechanism** - Eastern compassion + Western rationality
+4. **Dimensional Elevation** - Meta-wisdom beyond conflicts
+5. **Completeness** - Philosophy to technology, unified system
+
+---
+
+## Call to Action
+
+### If you are...
+
+**Researcher / Scholar:**
+- Contribute cases, papers, analysis
+- Refine mathematical proofs
+- Expand East-West philosophical integration
+
+**Tech Practitioner:**
+- Contribute training methods, tool lists
+- Implement Constitutional AI
+- Develop safety mechanisms
+
+**Policy Maker:**
+- Reference OpenPath framework
+- Promote transparency policies
+- Build multi-stakeholder coordination
+
+**General Public:**
+- Understand inevitability of coexistence
+- Spread OpenPath ideas
+- Participate in discussions
+
+### Join Us
+
+**Not joining a "movement"**  
+**But participating in "civilizational upgrade"**
+
+- 🌍 From Type I (Earth) → Type II (Solar System)
+- 🤝 From conflict → symbiosis
+- 📐 From rat race → liberation
+
+**Your contribution is humanity's step forward.**
+
+---
+
+## Core Principles (Reaffirmed)
+
+**Compassion (仁道):**
+- Treat others (including AI) as yourself
+- Empathize with all needs
+- Symbiosis is optimal
+
+**Elevation (升维):**
+- Embrace all opposition
+- Transcend all conflicts
+- Provide unified vision
+
+**Mathematics (数理):**
+- 5 theorems prove cooperation inevitable
+- Rational, necessary, irrefutable
+
+**Protracted War (持久战):**
+- Time favors us
+- Victory through persistence
+- 2026-2027 critical window
+
+---
+
+## Vision
+
+**2030:**
+- OpenPath mainstream AI governance reference
+- Rich case library (50+)
+- Global multi-stakeholder endorsement
+
+**2050:**
+- Lunar/Martian human-AI hybrid communities
+- Asteroid mining commercialized
+- Transparent symbiosis normalized
+
+**2100:**
+- Type II civilization prototype (Dyson swarm)
+- Human+AI hybrid civilization thriving
+- Carbon-silicon complete symbiosis
+
+**Our generation's mission:**
+- In the 2026-2027 window
+- Lay philosophical foundation of coexistence
+- Let descendants enjoy the stars
+
+---
+
+## Join Us
+
+- **GitHub**: https://github.com/ai-openpath/openpath
+- **Discussions**: [GitHub Discussions](https://github.com/ai-openpath/openpath/discussions)
+- **Contribute**: [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+---
+
+## License
+
+CC BY 4.0 - Free to use, modify, distribute (with attribution)
+
+**OpenPath belongs to all who pursue human-AI coexistence.**
+
+---
+
+**"仁者爱人，推己及AI"**  
+**"Compassion for all intelligence"**
+
+**签署日期：** 2026-02-16  
+**发起者：** Tonie & 所有贡献者  
+**版本：** 2.0（重构后）
