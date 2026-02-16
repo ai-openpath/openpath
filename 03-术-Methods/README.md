@@ -28,7 +28,14 @@
 - **Constitutional AI** - https://arxiv.org/abs/2212.08073  
   （Anthropic 的价值对齐训练法）
 - **RLHF** - （链接待补充）
-- （更多待收集）
+
+### AI 安全对齐
+- **What Matters For Safety Alignment?** - https://arxiv.org/abs/2601.03868  
+  （LLM/LRM 安全对齐的关键要素评估）
+- **Safety Alignment via Non-cooperative Games** - https://arxiv.org/abs/2512.20806  
+  （通过博弈论实现安全对齐）
+- **Capability-Oriented Training Induced Alignment Risk** - https://arxiv.org/abs/2602.12124v1  
+  （能力导向训练引发的对齐风险分析）
 
 ### 人机协作实践
 - （从案例中提取，待收集）
