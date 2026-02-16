@@ -37,4 +37,31 @@ Bernard Marr summarizes 8 AI ethics trends for 2026, focusing on **trust and acc
 
 ---
 
-_整理时间 | Archived: 2026-02-16 22:00_
+## 2026 最新补充 | 2026 Update
+
+### 信任框架深化 (Trust Framework Evolution)
+结合 **MIT Sloan 人机协同研究** 和 **International AI Safety Report 2026**，信任问题呈现多层次挑战：
+
+**Multi-layered trust challenges emerge** from recent studies:
+
+1. **技术信任** - AI 输出的可靠性（MIT: 过度/不足信任都有害）
+2. **制度信任** - 举报机制的安全性（Safety Report: 恐惧导致低报）
+3. **关系信任** - 人机协作的预期（AIdimension: 从工具到伙伴）
+
+**Technical trust**: Reliability of AI outputs (over/under-trust both harmful)  
+**Institutional trust**: Safety of reporting mechanisms (fear causes underreporting)  
+**Relational trust**: Expectations in collaboration (from tool to partner)
+
+### 问责机制现状 (Accountability Status)
+- ✅ **标准化进展** - 审计标准逐步形成
+- ⚠️ **缺口** - 缺乏"无惩罚举报"保护
+- 🔄 **演化** - 从"控制 AI"到"与 AI 共治"
+
+**Progress**: Audit standards crystallizing  
+**Gap**: Lack of "no-blame reporting" protection  
+**Evolution**: From "controlling AI" to "co-governing with AI"
+
+---
+
+_整理时间 | Archived: 2026-02-16 22:00_  
+_更新 | Updated: 2026-02-17 00:40_
