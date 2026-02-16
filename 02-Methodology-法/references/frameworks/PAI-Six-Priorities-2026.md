@@ -207,3 +207,23 @@
 
 **更新日期**: 2026-02-16  
 **状态**: 核心框架文档，需持续跟踪 PAI 后续更新
+
+---
+
+## 🔗 相关框架对比 (2026-02-17 补充)
+
+**治理层次体系**:
+- **哲学层**: OpenPath 道 (人类-AGI 共生哲学)
+- **政策层**: PAI Six Priorities (国际协调、政策框架)
+- **企业层**: Splunk AI Governance (问责、透明、公平、隐私、安全)
+- **技术层**: OpenPath 器 (Constitutional AI, RLHF, 仿生对齐)
+
+**协同关系**:
+- PAI 提供**政策路线图**
+- Splunk 提供**企业实操框架**
+- OpenPath 提供**哲学基础 + 极端情况应对**
+
+三者互补，形成从哲学到实践的完整链条。
+
+**补充参考**:
+- Splunk AI Governance 2026: https://www.splunk.com/en_us/blog/learn/ai-governance.html
