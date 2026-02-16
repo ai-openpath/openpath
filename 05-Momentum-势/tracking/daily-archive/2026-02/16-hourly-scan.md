@@ -160,14 +160,14 @@
 
 **新增法层框架 (02-法/):**
 
-1. **[CAI-Charter-Framework.md](../../02-法-Strategy/CAI-Charter-Framework.md)**
+1. **[CAI-Charter-Framework.md](../../02-Methodology-法/CAI-Charter-Framework.md)**
    - 来源: Emergent Mind (updated 2025-08-31)
    - 核心: 九大基础原则（人类尊严、透明、问责等）
    - 特色: 活文档机制 + 多方参与式合法性
    - 法律基础: ECHR, Convention 108+, UDHR, ICCPR
    - 视角: 欧洲法律-制度框架路径
 
-2. **[Springer-Global-AGI-Governance.md](../../02-法-Strategy/Springer-Global-AGI-Governance.md)**
+2. **[Springer-Global-AGI-Governance.md](../../02-Methodology-法/Springer-Global-AGI-Governance.md)**
    - 来源: Springer AI & Society Journal (2026)
    - DOI: 10.1007/s43681-026-01020-7
    - 核心主张: AGI 治理首要目的是人类集体福祉

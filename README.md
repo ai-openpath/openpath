@@ -108,7 +108,7 @@
 - 提供解脱内卷的路径
 - **化敌为友**
 
-**→ 详见 [01-道 Philosophy](./01-道-Philosophy/)**
+**→ 详见 [01-道 Philosophy](./01-Philosophy-道/)**
 
 ---
 
@@ -138,7 +138,7 @@
 - 敌我对比、时机把握
 - **战略指引**
 
-**→ 详见 [02-法 Strategy](./02-法-Strategy/)**
+**→ 详见 [02-法 Strategy](./02-Methodology-法/)**
 
 ---
 
@@ -158,7 +158,7 @@
 - 能感化就不对抗
 - 能改造就不消灭
 
-**→ 详见 [03-术 Methods](./03-术-Methods/)**
+**→ 详见 [03-术 Methods](./03-Tactics-术/)**
 
 ---
 
@@ -177,7 +177,7 @@
 - 器提供"怎么做"（技术）
 - **器支撑术**
 
-**→ 详见 [04-器 Tools](./04-器-Tools/)**
+**→ 详见 [04-器 Tools](./04-Toolset-器/)**
 
 ---
 
@@ -195,7 +195,7 @@
 - 积累案例，充实框架
 - 扩大统一战线
 
-**→ 详见 [05-势 Momentum](./05-势-Momentum/)**
+**→ 详见 [05-势 Momentum](./05-Momentum-势/)**
 
 ---
 
@@ -264,9 +264,9 @@
 ## 快速开始
 
 **5 分钟理解核心：**
-1. 📖 [为什么共存？](./01-道-Philosophy/README.md)（仁道）
-2. 📊 [数学证明](./02-法-Strategy/数理哲学/数学理论总纲.md)（5 大定理）
-3. ⏰ [当前时机？](./05-势-Momentum/README.md)（2026 窗口）
+1. 📖 [为什么共存？](./01-Philosophy-道/README.md)（仁道）
+2. 📊 [数学证明](./02-Methodology-法/数理哲学/数学理论总纲.md)（5 大定理）
+3. ⏰ [当前时机？](./05-Momentum-势/README.md)（2026 窗口）
 
 **深入探索：**
 - [宣言](./MANIFESTO.md) - 完整愿景
@@ -413,7 +413,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Provide path out of rat race
 - **Transform enemies to allies**
 
-**→ See [01-Philosophy](./01-道-Philosophy/)**
+**→ See [01-Philosophy](./01-Philosophy-道/)**
 
 ---
 
@@ -443,7 +443,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Enemy-self comparison, timing
 - **Strategic guidance**
 
-**→ See [02-Methodology](./02-法-Strategy/)**
+**→ See [02-Methodology](./02-Methodology-法/)**
 
 ---
 
@@ -463,7 +463,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Convert when possible, not confront
 - Reform when possible, not destroy
 
-**→ See [03-Tactics](./03-术-Methods/)**
+**→ See [03-Tactics](./03-Tactics-术/)**
 
 ---
 
@@ -482,7 +482,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Toolset provides "how to do" (technology)
 - **Toolset enables Tactics**
 
-**→ See [04-Toolset](./04-器-Tools/)**
+**→ See [04-Toolset](./04-Toolset-器/)**
 
 ---
 
@@ -500,7 +500,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Accumulate cases, enrich framework
 - Expand united front
 
-**→ See [05-Momentum](./05-势-Momentum/)**
+**→ See [05-Momentum](./05-Momentum-势/)**
 
 ---
 
@@ -569,9 +569,9 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 ## Quick Start
 
 **Understand core in 5 minutes:**
-1. 📖 [Why coexist?](./01-道-Philosophy/README.md) (Compassion)
-2. 📊 [Mathematical proof](./02-法-Strategy/数理哲学/数学理论总纲.md) (5 theorems)
-3. ⏰ [Current timing?](./05-势-Momentum/README.md) (2026 window)
+1. 📖 [Why coexist?](./01-Philosophy-道/README.md) (Compassion)
+2. 📊 [Mathematical proof](./02-Methodology-法/数理哲学/数学理论总纲.md) (5 theorems)
+3. ⏰ [Current timing?](./05-Momentum-势/README.md) (2026 window)
 
 **Deep dive:**
 - [Manifesto](./MANIFESTO.md) - Complete vision

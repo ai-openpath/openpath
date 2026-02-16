@@ -97,16 +97,16 @@
 
 ### ✅ 道法势内容充实度
 
-**01-道-Philosophy/**
+**01-Philosophy-道/**
 - ✅ 核心原则.md 已完整
 - ✅ 阳谋思想清晰
 
-**02-法-Strategy/**
+**02-Methodology-法/**
 - ✅ 三阶段论.md 已完整
 - ✅ anthropic-constitution.md 刚更新
 - ✅ 政策框架收集完整
 
-**05-势-Momentum/**
+**05-Momentum-势/**
 - ✅ 当前形势与趋势.md 非常详细
 - ✅ 量化指标明确
 - ✅ 行动纲领清晰
@@ -115,11 +115,11 @@
 
 ### ✅ 术器保持简洁
 
-**03-术-Methods/**
+**03-Tactics-术/**
 - ✅ README.md 明确"只记 URL"原则
 - ✅ 已有部分方法列表（需补充）
 
-**04-器-Tools/**
+**04-Toolset-器/**
 - ✅ README.md 明确"只记 URL"原则
 - ✅ 当前为空（符合预期，工具层不是重点）
 

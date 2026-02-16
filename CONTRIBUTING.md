@@ -70,7 +70,7 @@ daily/YYYY-MM/DD-topic-name.md
 
 **格式：**
 ```
-03-术-Methods/案例库/事件名.md
+03-Tactics-术/案例库/事件名.md
 ```
 
 **深度分析应包含：**
@@ -90,8 +90,8 @@ daily/YYYY-MM/DD-topic-name.md
 ### 3. 📖 哲学和战略 | Philosophy & Strategy
 
 **贡献到：**
-- `01-道-Philosophy/`
-- `02-法-Strategy/`
+- `01-Philosophy-道/`
+- `02-Methodology-法/`
 
 **类型：**
 - 核心原则的阐述和扩展
@@ -124,7 +124,7 @@ daily/YYYY-MM/DD-topic-name.md
 ### 5. 🛠️ 工具和模板 | Tools & Templates
 
 **贡献到：**
-- `04-器-Tools/`
+- `04-Toolset-器/`
 
 **类型：**
 - AI 贡献政策模板（for 开源项目）
