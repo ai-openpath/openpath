@@ -1,4 +1,4 @@
-# 04-Qi Tools | Training Methods & Technical Implementation
+# 04-Toolset Tools | Training Methods & Technical Implementation
 
 > Concrete techniques for AI alignment, training, and reformation
 
@@ -13,8 +13,8 @@
 - 💻 Concrete implementation code
 
 **Not:**
-- ❌ Abstract tactical strategies (that's Shu layer)
-- ❌ Philosophical arguments (that's Dao layer)
+- ❌ Abstract tactical strategies (that's Tactics layer)
+- ❌ Philosophical arguments (that's Philosophy layer)
 
 **But:**
 - ✅ Technical details
@@ -143,7 +143,7 @@
 
 ---
 
-## Qi vs Shu Distinction
+## Toolset vs Tactics Distinction
 
 **Shu (Tactical Strategy):**
 - "Resource deprivation tactics" (**how to do it**)
@@ -154,8 +154,8 @@
 - "RLHF training pipeline" (**concrete steps**)
 
 **Relationship:**
-- Shu guides Qi (tactics determine which tech)
-- Qi enables Shu (tech implements tactical intent)
+- Tactics guide Toolset (tactics determine which tech)
+- Toolset enables Tactics (tech implements tactical intent)
 
 ---
 

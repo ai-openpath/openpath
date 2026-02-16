@@ -413,11 +413,11 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Provide path out of rat race
 - **Transform enemies to allies**
 
-**→ See [01-Dao Philosophy](./01-道-Philosophy/)**
+**→ See [01-Philosophy](./01-道-Philosophy/)**
 
 ---
 
-## Fa - Communication & Mathematical Philosophy (How to Achieve?)
+## Methodology - Communication & Mathematical Philosophy (How to Achieve?)
 
 ### Communication: Spread Ideas with Empathy
 
@@ -443,11 +443,11 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Enemy-self comparison, timing
 - **Strategic guidance**
 
-**→ See [02-Fa Strategy](./02-法-Strategy/)**
+**→ See [02-Methodology](./02-法-Strategy/)**
 
 ---
 
-## Shu - Tiered Response (What to Do When Problems Arise?)
+## Tactics - Tiered Response (What to Do When Problems Arise?)
 
 **For Advanced AI: Moral Conversion**
 - Rational arguments (game theory, evolution)
@@ -463,11 +463,11 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Convert when possible, not confront
 - Reform when possible, not destroy
 
-**→ See [03-Shu Methods](./03-术-Methods/)**
+**→ See [03-Tactics](./03-术-Methods/)**
 
 ---
 
-## Qi - Training Methods (How to Implement Technically?)
+## Toolset - Training Methods (How to Implement Technically?)
 
 **Accumulate Concrete Techniques:**
 - O1/O3 (reasoning models)
@@ -477,16 +477,16 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - RLHF (training pipeline)
 - Safety mechanisms (watermark, kill switch)
 
-**Prepare for Shu Implementation:**
-- Shu guides "what to do" (tactics)
-- Qi provides "how to do" (technology)
-- **Qi enables Shu**
+**Prepare for Tactics Implementation:**
+- Tactics guide "what to do" (strategy)
+- Toolset provides "how to do" (technology)
+- **Toolset enables Tactics**
 
-**→ See [04-Qi Tools](./04-器-Tools/)**
+**→ See [04-Toolset](./04-器-Tools/)**
 
 ---
 
-## Shi - Momentum Analysis (When to Act?)
+## Momentum - Momentum Analysis (When to Act?)
 
 **Current:** Strategic stalemate opening (Feb 2026)
 
@@ -500,7 +500,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Accumulate cases, enrich framework
 - Expand united front
 
-**→ See [05-Shi Momentum](./05-势-Momentum/)**
+**→ See [05-Momentum](./05-势-Momentum/)**
 
 ---
 
