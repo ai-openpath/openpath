@@ -1,37 +1,45 @@
-# 术 Methods | 方法层 - 方法库
+# 术 Methods | 方法层 - 简要参考
 
-> **收集所有训练方法、协作实践、最佳案例**  
-> **Collect all training methods, collaboration practices, best cases**
+> **记录 URL，不深度展开**  
+> **Record URLs, don't elaborate**
 
 ---
 
 ## 🎯 本层的定位
 
-**术层 = 实践方法的知识库**
+**术层 = 方法的 URL 索引**
 
-收集和分类：
-- **AI 训练方法**（如 Constitutional AI, RLHF）
-- **人机协作方法**（如 code review 流程）
-- **冲突解决方法**（从真实案例中学习）
-- **最佳实践**（AI 身份声明、开源贡献等）
+**原则：**
+- ✅ 记录存在什么方法
+- ✅ 提供链接和一句话描述
+- ❌ 不深度分析（难以强制执行）
+- ❌ 不提供详细教程
 
-**我们不发明方法，我们收集、对比、提炼所有方法。**
+**为什么？**
+- 方法太具体，难以普遍推广
+- 每个组织有自己的实践
+- 我们聚焦在**道法势**
 
 ---
 
-## 📋 内容来源
+## 📋 收集类别
 
-### 案例分析（从冲突中学习）
-- [Matplotlib 事件](../daily/2026-02/15-matplotlib-incident.md)
-- 其他冲突案例（持续收集）
+### AI 训练方法
+- **Constitutional AI** - https://arxiv.org/abs/2212.08073  
+  （Anthropic 的价值对齐训练法）
+- **RLHF** - （链接待补充）
+- （更多待收集）
 
-### 训练方法（从论文/实践中收集）
-- Constitutional AI（Anthropic）
-- RLHF、DPO 等对齐技术
-- （等收集足够后分类整理）
+### 人机协作实践
+- （从案例中提取，待收集）
 
-### 协作实践（从成功案例中提炼）
-- （收集中）
+### 冲突解决模式
+- 从 [Matplotlib 事件](../daily/2026-02/15-matplotlib-incident.md) 学到的
+- （更多待收集）
+
+---
+
+**贡献方式：** 提供 URL + 一句话描述即可
 
 ---
 
