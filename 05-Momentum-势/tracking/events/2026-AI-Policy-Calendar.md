@@ -76,6 +76,19 @@
 
 ---
 
+## 🎓 学术与哲学事件
+
+### AI and Philosophy Conference 2026
+- **来源**: PhilEvents  
+- **URL**: https://philevents.org/event/show/141981
+- **主题**：
+  - Philosophy of Mind
+  - Philosophy of Computing and Information
+  - Applied Ethics
+- **OpenPath 意义**：学术界对 AI 哲学的系统性探讨，关注心智、计算与伦理交叉点
+
+---
+
 ## 🌍 其他重要监管进程
 
 ### 美国 - NIST AI 风险管理框架（AI RMF）
@@ -126,3 +139,4 @@
 
 **更新记录**：
 - 2026-02-16 17:00: 初始创建，整合 EU/US/OECD 关键时间点
+- 2026-02-17 05:40: 添加 AI and Philosophy Conference 2026 学术事件
