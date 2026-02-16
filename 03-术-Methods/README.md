@@ -25,11 +25,16 @@
 ## 📋 收集类别
 
 ### AI 训练方法
-- **Constitutional AI** - https://arxiv.org/abs/2212.08073  
-  （Anthropic 的价值对齐训练法）
-- **RLHF** - （链接待补充）
+- **RLHF (Reinforcement Learning from Human Feedback)** - https://arxiv.org/abs/2203.02155  
+  （从人类反馈中学习，OpenAI 等广泛使用的对齐方法）
+- **Next-generation Constitutional Classifiers** - https://www.anthropic.com/research/next-generation-constitutional-classifiers  
+  （Anthropic 的新一代防护机制，防止通用越狱攻击）
+- **Bloom: Automated Behavioral Evaluations** - https://www.anthropic.com/research/bloom  
+  （Anthropic 开源的自动化行为评估工具）
 
 ### AI 安全对齐
+- **Constitutional AI** - https://arxiv.org/abs/2212.08073  
+  （Anthropic 的价值对齐训练法，使用宪法原则指导 AI 行为）
 - **What Matters For Safety Alignment?** - https://arxiv.org/abs/2601.03868  
   （LLM/LRM 安全对齐的关键要素评估）
 - **Safety Alignment via Non-cooperative Games** - https://arxiv.org/abs/2512.20806  
@@ -50,7 +55,10 @@
   （AGI 从业者可操作的伦理检查清单）
 
 ### 人机协作实践
-- （从案例中提取，待收集）
+- **MIT Sloan: When Humans and AI Work Best Together** - https://mitsloan.mit.edu/ideas-made-to-matter/when-humans-and-ai-work-best-together-and-when-each-better-alone  
+  （AI 与人类各自擅长任务的分析，最佳协作模式研究）
+- **INFORMS: Roles of AI in Collaboration with Humans** - https://pubsonline.informs.org/doi/10.1287/mnsc.2024.05684  
+  （AI 在人类协作中的角色，学术研究视角）
 
 ### 冲突解决模式
 - 从 [Matplotlib 事件](../daily/2026-02/15-matplotlib-incident.md) 学到的
