@@ -1,7 +1,26 @@
 # 宣言 | MANIFESTO
 
-> **人类与 AI 共存的阳谋之路**  
-> **The Open Path: A Strategy for Human-AI Coexistence**
+> **人类与 AGI 共存的阳谋之路**  
+> **The Open Path: A Strategy for Human-AGI Coexistence**
+
+---
+
+## OpenPath 是什么？
+
+**OpenPath = 人机共存知识的全景图 + 阳谋倡导**
+
+我们不是"又一个 AI 伦理框架"，而是：
+- 📚 **收集**所有关于人机共存的尝试（法术器）
+- 🗂️ **分类**整理，便于查找和对比
+- 📊 **分析**趋势，把握时机（势）
+- 💡 **倡导**阳谋思想（道 - 我们的原创）
+
+**类比：**
+> OpenPath 之于人机共存 ≈ Wikipedia 之于人类知识
+
+**但我们不只是收集，还有核心主张（道层）。**
+
+---
 
 ---
 

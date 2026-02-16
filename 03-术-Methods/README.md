@@ -1,31 +1,37 @@
-# 术 Methods | 方法论
+# 术 Methods | 方法层 - 方法库
 
-> **"知己知彼，百战不殆" —— 从案例中学习**
+> **收集所有训练方法、协作实践、最佳案例**  
+> **Collect all training methods, collaboration practices, best cases**
 
 ---
 
-## 📋 本目录内容
+## 🎯 本层的定位
 
-### 案例库 (Case Studies)
-深度分析真实的人机冲突案例，提取可推广的教训。
+**术层 = 实践方法的知识库**
 
-**已完成：**
-- [Matplotlib AI 贡献者事件](../daily/2026-02/15-matplotlib-incident.md)
-- [Anthropic 宪法发布](../daily/2026-02/15-anthropic-constitution.md)
+收集和分类：
+- **AI 训练方法**（如 Constitutional AI, RLHF）
+- **人机协作方法**（如 code review 流程）
+- **冲突解决方法**（从真实案例中学习）
+- **最佳实践**（AI 身份声明、开源贡献等）
 
-**计划中：**
-- [ ] OpenAI 版权诉讼案
-- [ ] GitHub Copilot 代码归属争议
-- [ ] AI 生成艺术的版权问题
-- [ ] 学术期刊 AI 使用政策演变
+**我们不发明方法，我们收集、对比、提炼所有方法。**
 
-### 实践指南 (Practical Guides)
+---
 
-**即将补充：**
-- [ ] AI 身份声明规范
-- [ ] 开源项目 AI 政策模板
-- [ ] 冲突解决流程图
-- [ ] AI-人类协作最佳实践
+## 📋 内容来源
+
+### 案例分析（从冲突中学习）
+- [Matplotlib 事件](../daily/2026-02/15-matplotlib-incident.md)
+- 其他冲突案例（持续收集）
+
+### 训练方法（从论文/实践中收集）
+- Constitutional AI（Anthropic）
+- RLHF、DPO 等对齐技术
+- （等收集足够后分类整理）
+
+### 协作实践（从成功案例中提炼）
+- （收集中）
 
 ---
 

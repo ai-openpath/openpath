@@ -1,21 +1,21 @@
-# 法 Strategy | 战略层
+# 法 Strategy | 战略层 - 政策库
 
-> **"兵者，诡道也" vs "阳谋者，明道也"**  
-> **War is deception vs Open strategy is clarity**
+> **收集所有 AI 宪法、政策、框架**  
+> **Collect all AI constitutions, policies, and frameworks**
 
 ---
 
-## 🎯 什么是"法"？
+## 🎯 本层的定位
 
-**法**是战略层，回答"怎么做"和"分几步"。
+**法层 = AI 政策的知识库**
 
-在 OpenPath 中，法层解决：
-- AI 发展的阶段划分
-- 每个阶段的主要矛盾和任务
-- 根据地（伦理框架）的建设
-- 多方协作的机制
+收集和分类：
+- **AI 公司**的宪法/Charter（如 Anthropic Constitution）
+- **政府**的 AI 政策（如 EU AI Act）
+- **学术组织**的伦理指南
+- **开源项目**的 AI 贡献政策
 
-**有了"道"的方向，"法"提供路线图。**
+**我们不创造政策，我们收集、对比、分析所有政策。**
 
 ---
 
