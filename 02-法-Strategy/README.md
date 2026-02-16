@@ -31,6 +31,20 @@
 
 ---
 
+## 📋 治理框架收集
+
+### Legal Alignment for Safe and Ethical AI
+- **URL**: https://arxiv.org/abs/2601.04175
+- **核心观点**: 将法律规则、解释方法应用于 AI alignment
+- **三个方向**: 法律合规设计、法律解释方法、法律概念框架
+- **意义**: 法律系统是已有的"对齐机制"
+
+### 全球 AI 政策元分析（200+ 政策）
+- **URL**: https://www.sciencedirect.com/science/article/pii/S2666389923002416
+- **意义**: 分析全球公共机构、学术、企业的 AI 伦理指南
+
+---
+
 ## 📖 计划补充
 
 - [ ] **根据地建设.md** - 如何建立伦理框架的"根据地"

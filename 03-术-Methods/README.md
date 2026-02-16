@@ -42,6 +42,12 @@
   （整合技术安全与规范伦理的跨学科方法）
 - **Legal Alignment for Safe and Ethical AI** - https://arxiv.org/abs/2601.04175  
   （将法律规则应用于 AI alignment 问题）
+- **Disentangling AI Alignment: A Structured Taxonomy** - https://arxiv.org/html/2506.06286v1  
+  （区分 alignment 的目标/范围/对象三维度）
+
+### AI 伦理实践
+- **Forbes AGI Ethics Checklist** - https://www.forbes.com/sites/lanceeliot/2025/09/11/formulating-an-artificial-general-intelligence-ethics-checklist-for-the-upcoming-rise-of-advanced-ai/  
+  （AGI 从业者可操作的伦理检查清单）
 
 ### 人机协作实践
 - （从案例中提取，待收集）
