@@ -190,6 +190,9 @@
 - Safety mechanisms
 - （持续补充）
 
+### 学术会议与活动
+- [AI and Philosophy Conference 2026](https://philevents.org/event/show/141981) - Philosophy of Mind, Computing, Applied Ethics (学术前沿资源，2026)
+
 ---
 
 **"技术服务于道，器支撑术" | "Technology serves philosophy, tools enable tactics"**
