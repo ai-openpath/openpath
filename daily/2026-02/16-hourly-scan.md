@@ -152,3 +152,45 @@
 ---
 
 **下次扫描**: 2026-02-16 12:40
+
+
+---
+
+## 12:40 扫描 - Constitutional AI Charter + Springer AGI Governance
+
+**新增法层框架 (02-法/):**
+
+1. **[CAI-Charter-Framework.md](../../02-法-Strategy/CAI-Charter-Framework.md)**
+   - 来源: Emergent Mind (updated 2025-08-31)
+   - 核心: 九大基础原则（人类尊严、透明、问责等）
+   - 特色: 活文档机制 + 多方参与式合法性
+   - 法律基础: ECHR, Convention 108+, UDHR, ICCPR
+   - 视角: 欧洲法律-制度框架路径
+
+2. **[Springer-Global-AGI-Governance.md](../../02-法-Strategy/Springer-Global-AGI-Governance.md)**
+   - 来源: Springer AI & Society Journal (2026)
+   - DOI: 10.1007/s43681-026-01020-7
+   - 核心主张: AGI 治理首要目的是人类集体福祉
+   - 22 条学术引用涵盖：
+     * 嵌入式伦理 (Embedded Ethics)
+     * 可追溯性 (Traceability)
+     * 公平性与偏见 (Fairness & Bias)
+     * 阿西莫夫三定律批判 (Asimov's Laws Critique)
+     * 后殖民视角的 AGI 军事化警示
+     * 人在环中 (Human-in-the-Loop)
+     * OpenAI 代理 AI 治理实践
+
+**待办事项 (Action Items):**
+- 将嵌入式伦理、人在环中等添加到 03-术/README.md
+- 将可追溯性工具添加到 04-器/README.md
+- 创建 05-势/阴谋势力案例.md 收录军事化 AGI 警示
+- 深入研究超越人口统计平等的新公平定义
+
+**趋势判断:**
+- 学术界正在构建系统化的 AGI 治理理论
+- 欧洲路径强调法律-制度化（阳谋）
+- 出现后殖民批判视角（警惕权力集中）
+- 多学科融合趋势明显（法律+伦理+技术）
+
+**Git 提交:** `d2eb388` - Add CAI Charter + Springer AGI Governance frameworks
+
