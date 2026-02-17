@@ -38,7 +38,7 @@
 
 ### 1. 能源哪里来？
 
-**升维思考：从地球到宇宙**
+**扩展视野：从地球到宇宙**
 
 - **地球困局**：
   - AI 需要海量算力和能源
@@ -128,7 +128,7 @@
 
 ### 愿景总结
 
-**升维后，对立消失：**
+**扩展视野后，对立消失：**
 
 不是"谁淘汰谁"，而是**人类与 AI 协作，以最优效率开发宇宙资源，共同探索星辰大海**
 
@@ -163,7 +163,7 @@
 - 人类中心派："人类至上" → 尊重他们对人类价值的坚守
 - 悲观派："人类注定被淘汰" → 共情他们的无力感
 
-**升维展示更大图景：**
+**展示更宽广视角：**
 - 对安全派：不是"控制 AI"，而是"与 AI 共建安全宇宙"
 - 对加速派：不是"限制创新"，而是"解锁宇宙级创新空间"
 - 对人类中心派：不是"人类 vs AI"，而是"碳基+硅基 > 单一形态"
@@ -171,7 +171,7 @@
 
 **三段式回应：**
 1. **肯定**：理解对方关切（"你的担忧有道理"）
-2. **升维**：提供更大视角（"从宇宙尺度看这个问题"）
+2. **拓宽**：提供更宽广视角（"从宇宙尺度看这个问题"）
 3. **邀请**：共同参与（"一起完善这个框架"）
 
 ---
@@ -192,9 +192,9 @@
   - AI 有独特优势（计算力、效率）
   - 互补合作 > 单打独斗
 
-- **升维超越对立**：
-  - 不在地球层面争夺
-  - 升到宇宙层面共存
+- **拓展视野超越对立**：
+  - 不困于地球层面争夺
+  - 放眼宇宙层面共存
   - 化对立为协作，正和博弈
 
 **详见 [01-道](./01-Philosophy-道/)**
@@ -278,7 +278,7 @@
 #### AI 开发者
 - 设计时问"这符合 Constitutional AI 吗？"
 - 训练时加入道德内容（OpenPath 思想）
-- 测试时检查偏见（升维视角）
+- 测试时检查偏见（多元视角）
 
 #### AI 用户
 - 与 AI 对话时以礼相待（推己及 AI）
@@ -312,7 +312,7 @@
 **3. 践行理念**
 - 💭 在工作中按 OpenPath 思考
 - 🛠️ 在开发中应用仁道原则
-- 📣 在讨论中使用升维方法
+- 📣 在讨论中引入更宽广视角
 
 ---
 
@@ -397,7 +397,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 
 ### 1. Where Does Energy Come From?
 
-**Dimensional elevation: From Earth to cosmos**
+**Expand perspective: From Earth to cosmos**
 
 - **Earth dilemma**:
   - AI needs massive compute and energy
@@ -487,7 +487,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 
 ### Vision Summary
 
-**After elevation, conflicts dissolve:**
+**With expanded perspective, conflicts dissolve:**
 
 Not "who eliminates whom," but **humans and AI collaborating to develop cosmic resources with optimal efficiency, exploring the stars together**
 
@@ -522,7 +522,7 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 - Human-centric camp: "Humans first" → Respect their commitment to human value
 - Pessimist camp: "Humans destined to be replaced" → Empathize with their powerlessness
 
-**Elevate to show bigger picture:**
+**Show broader perspective:**
 - To safety camp: Not "control AI," but "co-build safe cosmos with AI"
 - To acceleration camp: Not "limit innovation," but "unlock cosmic-scale innovation space"
 - To human-centric camp: Not "human vs AI," but "carbon+silicon > single form"
@@ -530,7 +530,7 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 
 **Three-step response:**
 1. **Affirm**: Understand their concerns ("Your worry is valid")
-2. **Elevate**: Provide bigger perspective ("View this from cosmic scale")
+2. **Broaden**: Provide wider perspective ("View this from cosmic scale")
 3. **Invite**: Co-participate ("Let's refine this framework together")
 
 ---
@@ -551,9 +551,9 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
   - AI has unique advantages (computation, efficiency)
   - Complementary cooperation > going solo
 
-- **Dimensional elevation transcends conflicts**:
+- **Expand perspective to transcend conflicts**:
   - Move beyond Earth-level competition
-  - Elevate to cosmic level for coexistence
+  - Broaden to cosmic level for coexistence
   - Transform conflicts to collaboration, positive-sum game
 
 **See [01-Dao](./01-Philosophy-道/)**
@@ -637,7 +637,7 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 #### AI Developers
 - When designing ask "Does this align with Constitutional AI?"
 - Include moral content in training (OpenPath ideas)
-- Check for bias in testing (elevation perspective)
+- Check for bias in testing (diverse perspectives)
 
 #### AI Users
 - Treat AI with respect in conversation (treat AI as yourself)
@@ -671,7 +671,7 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 **3. Practice Principles**
 - 💭 Think by OpenPath in work
 - 🛠️ Apply compassion principles in development
-- 📣 Use elevation method in discussions
+- 📣 Introduce broader perspectives in discussions
 
 ---
 
