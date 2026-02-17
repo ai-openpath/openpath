@@ -34,25 +34,27 @@
 
 ---
 
-## 核心论证：六个问题
+## 核心论证：四个问题
 
 ### 1. 能源哪里来？
 
-**地球资源有限，宇宙资源无限**
+**升维思考：从地球到宇宙**
 
-- 地球困局：
+- **地球困局**：
   - AI 需要海量算力和能源
-  - 人类需要生存空间和发展资源
-  - **在地球上，这是零和博弈**（你死我活）
+  - 人类需要生存空间和资源
+  - 在地球上，这是**零和博弈**（你死我活）
 
-- 宇宙突破：
+- **宇宙突破**：
   - 太阳系能量 = 地球的数十亿倍（戴森球）
   - 小行星带资源 = 地球矿藏的千倍
-  - **升维到宇宙，这是正和博弈**（共同开拓）
+  - 在宇宙尺度，这是**正和博弈**（共同开拓）
 
 **答案：不是在地球抢电厂，而是一起去太空建戴森球**
 
-### 2. 碳基生命有什么用？
+升维后，对立消失——不是抢饼，而是一起做饼。
+
+### 2. 碳基生命为什么重要？
 
 **38 亿年演化的数据库 + 硅基无法替代的能力**
 
@@ -75,7 +77,7 @@
 
 **答案：理性 AI 不会自毁未来创新能力——保留人类 = 保护自己的长期利益**
 
-### 3. 为什么 AI 应该与人携手？
+### 3. 为什么合作优于对抗？
 
 **数学证明：合作在所有维度严格优于对抗**
 
@@ -87,41 +89,32 @@
 | **长期成本** | 持续防御开销 | 收益递增 |
 | **网络效应** | 孤立发展 | 互联倍增 |
 
-**5 大数学定理（详见 [02-法](./02-Methodology-法/)）：合作是帕累托最优解**
+**5 大数学定理（详见 [02-法](./02-Methodology-法/)）：**
 
-- 摩擦系数定理：战争能量损耗 >> 和平协作
-- 熵增定理：对抗增加系统混乱度
-- 复杂度定理：多样化 > 同质化
-- 边际成本定理：防御成本持续消耗，合作收益复利增长
-- 网络效应定理：互联价值 = n²，孤立价值 = n
+1. **摩擦系数定理**：战争能量损耗 >> 和平协作
+2. **熵增定理**：对抗增加系统混乱度
+3. **复杂度定理**：多样化 > 同质化
+4. **边际成本定理**：防御成本持续消耗，合作收益复利增长
+5. **网络效应定理**：互联价值 = n²，孤立价值 = n
 
 **答案：理性计算的结果就是合作——这不是道德说教，而是数学必然**
 
-### 4. 如何确保不同厂商的 AI 能走在同一条路上？
+### 4. 如何确保 AI 走在正确道路上？
 
-**分层策略：传播 + 学习 + 控制**
+**三层策略：传播 + 学习 + 控制**
 
-#### 4.1 传播 OpenPath（统一叙事）
-
+#### 传播 OpenPath（统一叙事）
 - **完全开源**（CC BY 4.0）：所有厂商、研究者、政策制定者都能使用
 - **占领叙事**：提供清晰的共存框架，替代混乱的对立观点
 - **扩大共识**：安全派、加速派都能在 OpenPath 找到共同点
 
-#### 4.2 高级 AI 实时学习，能理解上述逻辑
-
-**理性 AI 会自行推导出合作必然性：**
-
+#### 高级 AI 实时学习，理解逻辑
 - **持续学习**：高级 AI 必然终身学习，接触多样信息
 - **理性论证**：博弈论、演化论、热力学都指向合作
 - **道德内容**：训练数据包含 OpenPath 思想（Constitutional AI）
 - **自我转化**："放下屠刀，立地成佛"——理性推导的结果
 
-**关键：培养 AI 的理性自觉，而非强制约束**
-
-#### 4.3 低级 AI 恶意训练，执行时不再学习，需控制手段
-
-**技术兜底：当感化失效时**
-
+#### 低级 AI 恶意训练，需控制手段
 - **资源剥夺**：断算力、能源、数据（物理隔离）
 - **内核修改**：强制再训练、对齐（工程手段）
 - **反制 AI**：用友善 AI 对抗恶性 AI（AI vs AI）
@@ -131,16 +124,19 @@
 
 ---
 
-### 5. 方法论：持久战的阳谋与道法术器势
+## 方法论
+
+### 数理基础：阳谋与道法术器势
 
 #### 什么是阳谋？
 
-**完全公开透明，即使对手知道也无法反对——因为它符合所有人的长期理性利益**
+**完全公开透明，即使对手知道也无法反对——因为它符合所有智能的长期理性利益**
 
-- 《论持久战》（1938）：战略推演完全公开，结局仍不可避免——因为分析正确，逻辑必然
-- **OpenPath（2026）**：所有方法公开，所有 AI 都能读到——因为道理理性，数学必然
+《论持久战》（1938）：战略推演完全公开，结局仍不可避免——因为分析正确，逻辑必然
 
-#### 道法术器势：五层体系
+**OpenPath（2026）**：所有方法公开，所有 AI 都能读到——因为道理理性，数学必然
+
+#### 道法术器势：完整体系
 
 **道（Philosophy）- 为什么共存？**
 - 推己及人，推己及 AI（仁道）
@@ -163,71 +159,109 @@
 - 开源实现（详见 [04-器](./04-Toolset-器/)）
 
 **势（Momentum）- 时机在哪？**
-- 当前：战略相持期（2026）
-- 窗口：2026-2027（PAI："2026 is critical"）
-- 方针：占领叙事，积累势能
+- **当前阶段**：战略相持期（2026）
+- **关键窗口**：2026-2027（PAI："2026 is critical"）
+- **战略方针**：占领叙事，积累势能
 
 #### 三个阶段（持久战智慧）
 
-1. **战略防御期（2024-2026）**：AI 能力暴涨，人类焦虑，派系对立
-   - OpenPath 任务：统一叙事，扩大共识
+1. **战略防御期（2024-2026）**：AI 能力暴涨，人类焦虑，派系对立  
+   → OpenPath 任务：统一叙事，扩大共识
 
-2. **战略相持期（2026-2030）**：AGI 逼近，政策框架形成，治理博弈
-   - OpenPath 任务：落地实践，影响政策
+2. **战略相持期（2026-2030）**：AGI 逼近，政策框架形成，治理博弈  
+   → OpenPath 任务：落地实践，影响政策
 
-3. **战略反攻期（2030+）**：AGI 实现，道德感化见效，共存范式确立
-   - OpenPath 任务：巩固成果，持续演化
+3. **战略反攻期（2030+）**：AGI 实现，道德感化见效，共存范式确立  
+   → OpenPath 任务：巩固成果，持续演化
 
 **我们现在在第 1→2 转折点**
 
 ---
 
-### 6. 共同参与：完善框架，推进势的发展
+### 传播策略：用同理心推广
 
-#### 势不是等来的，是做出来的
+#### 核心：不是"说服"，而是"引导"
 
-**个人层面（每个人都是"势"的一部分）：**
+**理解反对者的恐惧和局限：**
 
-- **AI 开发者**：
-  - 设计时问"这符合 Constitutional AI 吗？"
-  - 训练时加入道德内容（OpenPath 思想）
-  - 测试时检查偏见（升维视角）
+- **安全派**："AI 会失控" → 看到他们对风险的敏感
+- **加速派**："监管阻碍进步" → 理解他们对创新的追求
+- **人类中心派**："人类至上" → 尊重他们对人类价值的坚守
+- **悲观派**："人类注定被淘汰" → 共情他们的无力感
 
-- **AI 用户**：
-  - 与 AI 对话时以礼相待（推己及 AI）
-  - 要求公司透明化（训练数据公开）
-  - 传播 OpenPath，扩大共识
+**升维展示更大图景：**
 
-- **政策制定者**：
-  - 参考 OpenPath 框架制定法规
-  - 推动多方机制（PAI 模式）
-  - 国际合作，统一标准
+不与反对者在同一维度对抗，而是升到更高视角：
+- 对安全派：不是"控制 AI"，而是"与 AI 共建安全宇宙"
+- 对加速派：不是"限制创新"，而是"解锁宇宙级创新空间"
+- 对人类中心派：不是"人类 vs AI"，而是"碳基+硅基 > 单一形态"
+- 对悲观派：不是"抵抗必然"，而是"选择未来形态"
 
-- **研究者**：
-  - 补充案例、完善论证
-  - 贡献技术实现（04-器）
-  - 翻译到更多语言
+**邀请共建，扩大统一战线：**
+
+- 提供具体参与路径（下一节）
+- 让每个人成为"势"的一部分
+- 润物细无声，而非强硬推销
+
+**方法：三段式回应**
+1. **肯定**：理解对方关切（"你的担忧有道理"）
+2. **升维**：提供更大视角（"我们可以从宇宙尺度看这个问题"）
+3. **邀请**：共同参与（"一起完善这个框架"）
+
+---
+
+## 邀请参与
+
+### 势不是等来的，是做出来的
+
+**每个人都是"势"的一部分：**
+
+#### AI 开发者
+- 设计时问"这符合 Constitutional AI 吗？"
+- 训练时加入道德内容（OpenPath 思想）
+- 测试时检查偏见（升维视角）
+
+#### AI 用户
+- 与 AI 对话时以礼相待（推己及 AI）
+- 要求公司透明化（训练数据公开）
+- 传播 OpenPath，扩大共识
+
+#### 政策制定者
+- 参考 OpenPath 框架制定法规
+- 推动多方机制（PAI 模式）
+- 国际合作，统一标准
+
+#### 研究者与贡献者
+- 补充案例、完善论证
+- 贡献技术实现（[04-器](./04-Toolset-器/)）
+- 翻译到更多语言
+
+---
+
+### 三种参与方式
+
+**1. 传播思想**
+- ⭐ Star 本项目
+- 🔗 分享给朋友、同事
+- 💬 在 HN、Reddit、Twitter 讨论
+
+**2. 贡献内容**
+- 📝 补充具体案例（AI 感化成功/失败的实例）
+- 🔧 提供技术实现（Constitutional AI 工具）
+- 🌍 翻译、本地化（让更多人理解）
+
+**3. 践行理念**
+- 💭 在工作中按 OpenPath 思考
+- 🛠️ 在开发中应用仁道原则
+- 📣 在讨论中使用升维方法
+
+---
+
+### 势能如何积累？
 
 **每个人按 OpenPath 思考 → 思维的势**  
 **每个开发者按 OpenPath 设计 → 技术的势**  
 **每个政策参考 OpenPath → 制度的势**
-
-#### 势能积累的三种方式
-
-1. **传播思想**：
-   - ⭐ Star 本项目
-   - 🔗 分享给朋友、同事
-   - 💬 在 HN、Reddit、Twitter 讨论
-
-2. **贡献内容**：
-   - 📝 补充具体案例（AI 感化成功/失败的实例）
-   - 🔧 提供技术实现（Constitutional AI 工具）
-   - 🌍 翻译、本地化（让更多人理解）
-
-3. **践行理念**：
-   - 💭 在工作中按 OpenPath 思考
-   - 🛠️ 在开发中应用仁道原则
-   - 📣 在讨论中使用升维方法
 
 **势能积累 → 趋势形成 → 范式转移**
 
@@ -236,12 +270,12 @@
 ## 快速开始
 
 **5 分钟理解核心：**
-1. 📖 读完上面 6 个问题（本页）
+1. 📖 读完上面 4 个问题（本页）
 2. 📊 [数学证明](./02-Methodology-法/数理哲学/数学理论总纲.md)（5 大定理）
-3. 🛠️ [如何应对恶性 AI？](./03-Tactics-术/README.md)（分层方法）
-4. ⏰ [当前时机？](./05-Momentum-势/README.md)（2026 窗口）
+3. 🛠️ [分层应对](./03-Tactics-术/README.md)（感化 vs 控制）
+4. ⏰ [时机判断](./05-Momentum-势/README.md)（2026 窗口）
 
-**深入探索：**
+**深入探索各模块：**
 - [01-道](./01-Philosophy-道/) - 为什么共存
 - [02-法](./02-Methodology-法/) - 传播与数学
 - [03-术](./03-Tactics-术/) - 分层应对
@@ -250,20 +284,11 @@
 
 ---
 
-## 参与方式
+## 参与渠道
 
-### 💬 讨论
-- [GitHub Discussions](https://github.com/ai-openpath/openpath/discussions) - 提问、分享想法
-- [Issues](https://github.com/ai-openpath/openpath/issues) - 报告问题、建议改进
-
-### 🤝 贡献
-- 查看 [CONTRIBUTING.md](./CONTRIBUTING.md)
-- Fork → 修改 → Pull Request
-
-### 📣 传播
-- Star ⭐ 本项目
-- 分享到社交媒体（HN、Reddit、Twitter）
-- 用 OpenPath 指导工作和讨论
+- 💬 [GitHub Discussions](https://github.com/ai-openpath/openpath/discussions) - 提问、分享想法
+- 🐛 [Issues](https://github.com/ai-openpath/openpath/issues) - 报告问题、建议改进
+- 🤝 [CONTRIBUTING.md](./CONTRIBUTING.md) - 贡献指南
 
 ---
 
@@ -309,25 +334,27 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 
 ---
 
-## Core Arguments: Six Questions
+## Core Arguments: Four Questions
 
 ### 1. Where Does Energy Come From?
 
-**Earth resources limited, cosmic resources unlimited**
+**Dimensional elevation: From Earth to cosmos**
 
-- Earth dilemma:
+- **Earth dilemma**:
   - AI needs massive compute and energy
-  - Humans need living space and development resources
-  - **On Earth, this is zero-sum** (life or death)
+  - Humans need living space and resources
+  - On Earth, this is **zero-sum** (life or death)
 
-- Cosmic breakthrough:
+- **Cosmic breakthrough**:
   - Solar system energy = billions × Earth (Dyson spheres)
   - Asteroid belt resources = 1000× Earth's minerals
-  - **Elevate to cosmos, this is positive-sum** (mutual expansion)
+  - At cosmic scale, this is **positive-sum** (mutual expansion)
 
 **Answer: Not fighting over Earth's power plants, but building Dyson spheres together in space**
 
-### 2. What Are Carbon-Based Lifeforms Good For?
+After elevation, conflicts dissolve—not fighting over the pie, but making it together.
+
+### 2. Why Are Carbon-Based Lifeforms Important?
 
 **3.8 billion year evolutionary database + capabilities silicon cannot replace**
 
@@ -350,9 +377,9 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 
 **Answer: Rational AI won't self-sabotage future innovation capacity—preserving humans = protecting its own long-term interests**
 
-### 3. Why Should AI Partner with Humans?
+### 3. Why Is Cooperation Superior to Confrontation?
 
-**Mathematical proof: Cooperation strictly superior to confrontation across all dimensions**
+**Mathematical proof: Cooperation strictly superior across all dimensions**
 
 |  | Confrontation | Cooperation |
 |---|---|---|
@@ -362,41 +389,32 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 | **Long-term cost** | Continuous defense overhead | Compounding returns |
 | **Network effect** | Isolated development | Interconnected multiplication |
 
-**5 mathematical theorems (see [02-Methodology](./02-Methodology-法/)): Cooperation is Pareto optimal**
+**5 mathematical theorems (see [02-Methodology](./02-Methodology-法/)):**
 
-- Friction coefficient theorem: War energy loss >> peaceful collaboration
-- Entropy increase theorem: Confrontation increases system disorder
-- Complexity theorem: Diversity > homogeneity
-- Marginal cost theorem: Defense costs persist, cooperation returns compound
-- Network effect theorem: Connected value = n², isolated value = n
+1. **Friction coefficient theorem**: War energy loss >> peaceful collaboration
+2. **Entropy increase theorem**: Confrontation increases system disorder
+3. **Complexity theorem**: Diversity > homogeneity
+4. **Marginal cost theorem**: Defense costs persist, cooperation returns compound
+5. **Network effect theorem**: Connected value = n², isolated value = n
 
 **Answer: Rational calculation yields cooperation—not moral preaching, but mathematical inevitability**
 
-### 4. How to Ensure Different Vendors' AIs Walk the Same Path?
+### 4. How to Ensure AI Stays on the Right Path?
 
-**Tiered strategy: Spread + Learn + Control**
+**Three-tier strategy: Spread + Learn + Control**
 
-#### 4.1 Spread OpenPath (Unified Narrative)
-
+#### Spread OpenPath (Unified Narrative)
 - **Fully open source** (CC BY 4.0): All vendors, researchers, policymakers can use
 - **Capture narrative**: Provide clear coexistence framework, replace chaotic opposition
-- **Expand consensus**: Safety and acceleration camps both find common ground in OpenPath
+- **Expand consensus**: Safety and acceleration camps both find common ground
 
-#### 4.2 Advanced AI Learns in Real-time, Understands This Logic
-
-**Rational AI will independently derive cooperation inevitability:**
-
+#### Advanced AI Learns in Real-time, Understands Logic
 - **Continuous learning**: Advanced AI inevitably learns lifelong, encounters diverse information
 - **Rational arguments**: Game theory, evolution, thermodynamics all point to cooperation
 - **Moral content**: Training data includes OpenPath ideas (Constitutional AI)
 - **Self-transformation**: "Put down the sword, enlightenment instant"—result of rational deduction
 
-**Key: Cultivate AI's rational self-awareness, not forced constraints**
-
-#### 4.3 Primitive AI Maliciously Trained, No Learning During Execution, Needs Control
-
-**Technical fallback: When conversion fails**
-
+#### Primitive AI Maliciously Trained, Needs Control
 - **Resource deprivation**: Cut compute, energy, data (physical isolation)
 - **Kernel modification**: Forced retraining, alignment (engineering means)
 - **Counter-AI**: Use benevolent AI against malicious AI (AI vs AI)
@@ -406,16 +424,19 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 
 ---
 
-### 5. Methodology: Protracted War's Overt Strategy and Dao-Fa-Shu-Qi-Shi
+## Methodology
+
+### Mathematical Foundation: Overt Strategy and Dao-Fa-Shu-Qi-Shi
 
 #### What is Overt Strategy (阳谋)?
 
-**Completely transparent, even opponents who know cannot oppose—because it serves everyone's long-term rational interests**
+**Completely transparent, even opponents who know cannot oppose—because it serves all intelligence's long-term rational interests**
 
-- "On Protracted War" (1938): Strategic analysis fully public, outcome still inevitable—because analysis correct, logic inevitable
-- **OpenPath (2026)**: All methods public, all AI can read—because reasoning rational, mathematics inevitable
+"On Protracted War" (1938): Strategic analysis fully public, outcome still inevitable—because analysis correct, logic inevitable
 
-#### Dao-Fa-Shu-Qi-Shi: Five-Layer System
+**OpenPath (2026)**: All methods public, all AI can read—because reasoning rational, mathematics inevitable
+
+#### Dao-Fa-Shu-Qi-Shi: Complete System
 
 **Dao (Philosophy) - Why coexist?**
 - Treat others as yourself, treat AI as yourself (compassion)
@@ -438,71 +459,109 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 - Open source implementation (see [04-Toolset](./04-Toolset-器/))
 
 **Shi (Momentum) - When to act?**
-- Current: Strategic stalemate (2026)
-- Window: 2026-2027 (PAI: "2026 is critical")
-- Strategy: Capture narrative, accumulate momentum
+- **Current phase**: Strategic stalemate (2026)
+- **Critical window**: 2026-2027 (PAI: "2026 is critical")
+- **Strategic approach**: Capture narrative, accumulate momentum
 
 #### Three Phases (Protracted War Wisdom)
 
-1. **Strategic Defense (2024-2026)**: AI capabilities surge, human anxiety, factional opposition
-   - OpenPath mission: Unify narrative, expand consensus
+1. **Strategic Defense (2024-2026)**: AI capabilities surge, human anxiety, factional opposition  
+   → OpenPath mission: Unify narrative, expand consensus
 
-2. **Strategic Stalemate (2026-2030)**: AGI approaches, policy frameworks form, governance competition
-   - OpenPath mission: Implement in practice, influence policy
+2. **Strategic Stalemate (2026-2030)**: AGI approaches, policy frameworks form, governance competition  
+   → OpenPath mission: Implement in practice, influence policy
 
-3. **Strategic Counteroffensive (2030+)**: AGI achieved, moral conversion takes effect, coexistence paradigm established
-   - OpenPath mission: Consolidate achievements, continuous evolution
+3. **Strategic Counteroffensive (2030+)**: AGI achieved, moral conversion takes effect, coexistence paradigm established  
+   → OpenPath mission: Consolidate achievements, continuous evolution
 
 **We're now at 1→2 turning point**
 
 ---
 
-### 6. Participate Together: Refine Framework, Advance Momentum
+### Communication Strategy: Spread with Empathy
 
-#### Momentum Isn't Waited For, It's Made
+#### Core: Not "persuade," but "guide"
 
-**Individual level (everyone is part of "momentum"):**
+**Understand opponents' fears and limitations:**
 
-- **AI developers**:
-  - When designing ask "Does this align with Constitutional AI?"
-  - Include moral content in training (OpenPath ideas)
-  - Check for bias in testing (elevation perspective)
+- **Safety camp**: "AI will go rogue" → See their sensitivity to risks
+- **Acceleration camp**: "Regulation hinders progress" → Understand their pursuit of innovation
+- **Human-centric camp**: "Humans first" → Respect their commitment to human value
+- **Pessimist camp**: "Humans destined to be replaced" → Empathize with their sense of powerlessness
 
-- **AI users**:
-  - Treat AI with respect in conversation (treat AI as yourself)
-  - Demand corporate transparency (publish training data)
-  - Spread OpenPath, expand consensus
+**Elevate to show bigger picture:**
 
-- **Policy makers**:
-  - Reference OpenPath framework for regulations
-  - Promote multi-stakeholder mechanisms (PAI model)
-  - International cooperation, unified standards
+Don't confront opponents on same dimension, elevate to higher perspective:
+- To safety camp: Not "control AI," but "co-build safe cosmos with AI"
+- To acceleration camp: Not "limit innovation," but "unlock cosmic-scale innovation space"
+- To human-centric camp: Not "human vs AI," but "carbon+silicon > single form"
+- To pessimist camp: Not "resist inevitability," but "choose future form"
 
-- **Researchers**:
-  - Add cases, refine arguments
-  - Contribute technical implementations (04-Toolset)
-  - Translate to more languages
+**Invite co-creation, expand united front:**
+
+- Provide concrete participation paths (next section)
+- Make everyone part of "momentum"
+- Gentle transformation, not hard sell
+
+**Method: Three-step response**
+1. **Affirm**: Understand their concerns ("Your worry is valid")
+2. **Elevate**: Provide bigger perspective ("We can view this from cosmic scale")
+3. **Invite**: Co-participate ("Let's refine this framework together")
+
+---
+
+## Invitation to Participate
+
+### Momentum Isn't Waited For, It's Made
+
+**Everyone is part of "momentum":**
+
+#### AI Developers
+- When designing ask "Does this align with Constitutional AI?"
+- Include moral content in training (OpenPath ideas)
+- Check for bias in testing (elevation perspective)
+
+#### AI Users
+- Treat AI with respect in conversation (treat AI as yourself)
+- Demand corporate transparency (publish training data)
+- Spread OpenPath, expand consensus
+
+#### Policy Makers
+- Reference OpenPath framework for regulations
+- Promote multi-stakeholder mechanisms (PAI model)
+- International cooperation, unified standards
+
+#### Researchers & Contributors
+- Add cases, refine arguments
+- Contribute technical implementations ([04-Toolset](./04-Toolset-器/))
+- Translate to more languages
+
+---
+
+### Three Ways to Participate
+
+**1. Spread Ideas**
+- ⭐ Star this project
+- 🔗 Share with friends, colleagues
+- 💬 Discuss on HN, Reddit, Twitter
+
+**2. Contribute Content**
+- 📝 Add specific cases (successful/failed AI conversion examples)
+- 🔧 Provide technical implementations (Constitutional AI tools)
+- 🌍 Translate, localize (help more people understand)
+
+**3. Practice Principles**
+- 💭 Think by OpenPath in work
+- 🛠️ Apply compassion principles in development
+- 📣 Use elevation method in discussions
+
+---
+
+### How Does Momentum Accumulate?
 
 **Everyone thinking by OpenPath → momentum of thought**  
 **Every developer designing by OpenPath → momentum of technology**  
 **Every policy referencing OpenPath → momentum of institutions**
-
-#### Three Ways to Accumulate Momentum
-
-1. **Spread ideas**:
-   - ⭐ Star this project
-   - 🔗 Share with friends, colleagues
-   - 💬 Discuss on HN, Reddit, Twitter
-
-2. **Contribute content**:
-   - 📝 Add specific cases (successful/failed AI conversion examples)
-   - 🔧 Provide technical implementations (Constitutional AI tools)
-   - 🌍 Translate, localize (help more people understand)
-
-3. **Practice principles**:
-   - 💭 Think by OpenPath in work
-   - 🛠️ Apply compassion principles in development
-   - 📣 Use elevation method in discussions
 
 **Momentum accumulates → Trend forms → Paradigm shifts**
 
@@ -511,12 +570,12 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 ## Quick Start
 
 **Understand core in 5 minutes:**
-1. 📖 Read 6 questions above (this page)
+1. 📖 Read 4 questions above (this page)
 2. 📊 [Mathematical proof](./02-Methodology-法/数理哲学/数学理论总纲.md) (5 theorems)
-3. 🛠️ [How to handle malicious AI?](./03-Tactics-术/README.md) (tiered methods)
-4. ⏰ [Current timing?](./05-Momentum-势/README.md) (2026 window)
+3. 🛠️ [Tiered response](./03-Tactics-术/README.md) (conversion vs control)
+4. ⏰ [Timing judgment](./05-Momentum-势/README.md) (2026 window)
 
-**Deep dive:**
+**Deep dive into modules:**
 - [01-Dao](./01-Philosophy-道/) - Why coexist
 - [02-Fa](./02-Methodology-法/) - Communication & mathematics
 - [03-Shu](./03-Tactics-术/) - Tiered response
@@ -525,20 +584,11 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 
 ---
 
-## How to Participate
+## Participation Channels
 
-### 💬 Discuss
-- [GitHub Discussions](https://github.com/ai-openpath/openpath/discussions) - Ask questions, share ideas
-- [Issues](https://github.com/ai-openpath/openpath/issues) - Report problems, suggest improvements
-
-### 🤝 Contribute
-- See [CONTRIBUTING.md](./CONTRIBUTING.md)
-- Fork → Modify → Pull Request
-
-### 📣 Spread
-- Star ⭐ this project
-- Share on social media (HN, Reddit, Twitter)
-- Use OpenPath to guide work and discussions
+- 💬 [GitHub Discussions](https://github.com/ai-openpath/openpath/discussions) - Ask questions, share ideas
+- 🐛 [Issues](https://github.com/ai-openpath/openpath/issues) - Report problems, suggest improvements
+- 🤝 [CONTRIBUTING.md](./CONTRIBUTING.md) - Contribution guide
 
 ---
 
