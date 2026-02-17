@@ -140,12 +140,20 @@ AI取代工作 → 大规模失业 → 消费能力下降 + 社会不稳定
 
 ### 应对失业与经济冲击
 
+**核心问题：AI时代需要新的生产关系**
+
+**深度分析**：[AI时代的生产与分配：马克思主义视角](./02-Methodology-法/ai-era-distribution.md)
+- 生产力质变（边际成本趋零）→ 需要新分配方式
+- AI是全人类集体创造 → 应该全民共享
+- 三层分配结构：基本保障 + 贡献激励 + 有限市场
+
 #### 短期缓冲（2026-2028）
 
 **全民基本收入（UBI）试点**
 - 在AI冲击严重地区先行试点
 - 资金来源：AI企业税、数据税
 - 保障基本生存，缓解恐慌
+- **注**：这是过渡方案，长期需要更根本的所有制变革（见深度分析）
 
 **大规模再培训计划**
 - **不是**：教大家学编程（AI也会编程）
@@ -168,9 +176,15 @@ AI取代工作 → 大规模失业 → 消费能力下降 + 社会不稳定
   - 监督性工作（AI审核、伦理评估）
 
 **新经济模式探索**
-- 贡献经济：社区贡献获得信用
-- 创意经济：文化创作、知识分享
-- 数据主权：个人数据价值回归个人
+- **贡献经济**：社区贡献获得信用
+- **创意经济**：文化创作、知识分享
+- **数据主权**：个人数据价值回归个人
+- **AI公有化**：基础AI模型公有，全民共享算力（详见[深度分析](./02-Methodology-法/ai-era-distribution.md)）
+
+**理论基础**：
+- AI边际成本趋零 → 传统价值规律失效
+- 生产力飞跃 → 必然要求新生产关系
+- 从按劳分配向按需分配过渡
 
 ---
 
@@ -535,14 +549,26 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
 
 ### Addressing Unemployment
 
+**Core issue: AI era requires new production relations**
+
+**Deep analysis**: [AI-Era Distribution: Marxist Perspective](./02-Methodology-法/ai-era-distribution.md)
+- Production force transformation (marginal cost → zero) → needs new distribution
+- AI is collective creation of humanity → should be collectively owned
+- Three-tier distribution: basic guarantee + contribution incentive + limited market
+
 **Short-term (2026-2028):**
-- UBI pilots
+- UBI pilots (transitional measure)
 - Massive retraining (AI collaboration skills, not just coding)
 - Shorter work weeks (4-day workweek)
 
 **Medium-term (2028-2030):**
 - Redefine "work": creative, relational, supervisory roles
-- New economic models: contribution economy, data sovereignty
+- New economic models: contribution economy, data sovereignty, **AI commons**
+
+**Theoretical foundation:**
+- AI marginal cost → zero → traditional value law fails
+- Production force leap → requires new production relations
+- Transition from "to each according to work" to "to each according to need"
 
 ### Addressing Psychological Impact
 
