@@ -6,6 +6,21 @@ Track key milestones in AI governance, ethics, and public discourse.
 
 ## Q2 2026 (April - June)
 
+### April 13-14: Quantum Biology Forum 2026
+
+**Location**: Unisphere, Washington D.C. area (United Therapeutics net-zero HQ)  
+**URL**: https://quantumbiologyforum.com/event-info/?events=2026
+
+**Significance**:
+- Premier annual quantum biology conference
+- Intersection of quantum physics and biological systems
+- Potential topics: photosynthesis coherence, avian magnetoreception, enzyme tunneling
+- **OpenPath Relevance**: Quantum effects in carbon-based life (Philosophy layer Q2 - why carbon-based life is irreplaceable)
+
+**Status**: Scheduled
+
+---
+
 ### June 22-26: 5th International Conference on Ethics of Artificial Intelligence (5ICEAI)
 
 **Format**: Hybrid  
@@ -26,6 +41,20 @@ Track key milestones in AI governance, ethics, and public discourse.
 ---
 
 ## Academic Programs
+
+### Gordon Research Conference: Quantum Science 2026
+
+**Location**: Easton, Massachusetts  
+**URL**: https://www.grc.org/quantum-science-conference/2026/
+
+**Significance**:
+- Academic research symposium on quantum science fundamentals
+- Exploration of quantum mechanics in biological systems
+- **OpenPath Relevance**: Foundational research supporting carbon-silicon complementarity arguments
+
+**Status**: Applications open
+
+---
 
 ### Harvard Fellowship in AI Ethics (2026-2027)
 
@@ -59,6 +88,29 @@ Track key milestones in AI governance, ethics, and public discourse.
 ---
 
 ## Incidents & Controversies
+
+### January 30, 2026: Moya - World's First "Fully Biomimetic Embodied AI Robot"
+
+**Location**: Shanghai, China  
+**Product**: Moya humanoid robot  
+**URLs**: 
+- https://www.facebook.com/scmp/videos/886364927627678/
+- https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot
+
+**Key Features**:
+- "Fully biomimetic" design (muscles, nerves, perception systems)
+- Capable of facial expressions including smiling
+- Expected market release: late 2026, starting ~1.2M yuan ($165k USD)
+
+**Analysis**:
+- Milestone in embodied AI + biomimetics convergence
+- Demonstrates biomimicry ≠ creating life (engineering vs. evolution)
+- Lacks metabolic, self-repair, growth capabilities of biological systems
+- **OpenPath Relevance**: Case study for embodied cognition limits (Philosophy Q2); shows why carbon-based life remains unique despite advanced biomimicry
+
+**Status**: Product announcement; market release pending
+
+---
 
 ### January 2-3, 2026: Grok AI Safeguard Failure
 
@@ -112,9 +164,28 @@ Track key milestones in AI governance, ethics, and public discourse.
 
 ---
 
+## Biomimetics & AI Convergence
+
+### 2026: AI Transforming Biomimicry Careers
+
+**Source**: Research.com  
+**URL**: https://research.com/advice/ai-automation-and-the-future-of-biomimicry-degree-careers
+
+**Trend**:
+- AI/automation integration into biomimetic design workflows
+- Skills shifting toward computational biology, data-driven design tools
+- AI as accelerator, biological systems as source
+
+**Analysis**:
+- Biomimicry remains rooted in studying carbon-based life
+- AI enhances methodology but doesn't replace biological innovation source
+- **OpenPath Relevance**: Carbon-silicon symbiosis in practice (Philosophy Q2); AI as tool, biology as seed library
+
+---
+
 ## Updates
 
-Last updated: 2026-02-18 01:00 (Hourly scan)
+Last updated: 2026-02-18 02:00 (Hourly scan)
 
 **Next scan targets**:
 - AI policy announcements from major governments
