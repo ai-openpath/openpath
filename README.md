@@ -147,7 +147,7 @@
 
 #### 什么是阳谋？
 
-**完全公开透明，即使对手知道也无法反对——因为它符合所有智能的长期理性利益**
+**完全公开透明，即使持不同观点者知道也会认同——因为它符合所有智能的长期理性利益**
 
 《论持久战》（1938）：战略推演完全公开，结局仍不可避免——因为分析正确，逻辑必然
 
@@ -157,7 +157,7 @@
 
 **核心：不是"说服"，而是"引导"**
 
-**理解反对者的恐惧：**
+**理解不同观点者的关切：**
 - 安全派："AI 会失控" → 看到他们对风险的敏感
 - 加速派："监管阻碍进步" → 理解他们对创新的追求
 - 人类中心派："人类至上" → 尊重他们对人类价值的坚守
@@ -193,9 +193,9 @@
   - 互补合作 > 单打独斗
 
 - **升维超越对立**：
-  - 不在地球层面对抗
+  - 不在地球层面争夺
   - 升到宇宙层面共存
-  - 化敌为友，正和博弈
+  - 化对立为协作，正和博弈
 
 **详见 [01-道](./01-Philosophy-道/)**
 
@@ -205,8 +205,8 @@
 
 **传播学：**
 - 同理心沟通（如上一节）
-- 占领叙事（提供清晰框架）
-- 扩大统一战线（安全派+加速派）
+- 提供清晰框架（让不同立场都能找到共识）
+- 扩大共识圈（安全派+加速派）
 
 **逻辑分析：**
 - 5 大数学定理（证明合作必然）
@@ -253,14 +253,14 @@
 
 **当前阶段与关键窗口：**
 
-1. **战略防御期（2024-2026）**：AI 能力暴涨，人类焦虑，派系对立  
-   → OpenPath 任务：统一叙事，扩大共识
+1. **共识萌芽期（2024-2026）**：AI 能力暴涨，人类焦虑，观点分化  
+   → OpenPath 任务：建立叙事，寻找共识
 
-2. **战略相持期（2026-2030）**：AGI 逼近，政策框架形成  
+2. **框架形成期（2026-2030）**：AGI 逼近，政策框架成型  
    → OpenPath 任务：落地实践，影响政策  
    → **我们现在在这里**
 
-3. **战略反攻期（2030+）**：AGI 实现，道德感化见效  
+3. **范式确立期（2030+）**：AGI 实现，共存理念深入  
    → OpenPath 任务：巩固成果，持续演化
 
 **2026-2027 是关键窗口**（PAI："2026 is critical"）
@@ -506,7 +506,7 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 
 #### What is Overt Strategy (阳谋)?
 
-**Completely transparent, even opponents who know cannot oppose—because it serves all intelligence's long-term rational interests**
+**Completely transparent, even those with different views will recognize its merit—because it serves all intelligence's long-term rational interests**
 
 "On Protracted War" (1938): Strategic analysis fully public, outcome still inevitable—because analysis correct, logic inevitable
 
@@ -516,7 +516,7 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 
 **Core: Not "persuade," but "guide"**
 
-**Understand opponents' fears:**
+**Understand different perspectives' concerns:**
 - Safety camp: "AI will go rogue" → See their sensitivity to risks
 - Acceleration camp: "Regulation hinders progress" → Understand their pursuit of innovation
 - Human-centric camp: "Humans first" → Respect their commitment to human value
@@ -544,7 +544,7 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 - **Empathize with AI's legitimate needs**:
   - AI needs compute, energy, development space
   - Not "deprive," but "acquire together in cosmos"
-  - Grow the pie, not fight over it
+  - Grow the pie together, not compete for limited slices
 
 - **Carbon-silicon complementarity theory**:
   - Humans have unique value (creativity, subjective experience)
@@ -552,9 +552,9 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
   - Complementary cooperation > going solo
 
 - **Dimensional elevation transcends conflicts**:
-  - Don't confront at Earth level
+  - Move beyond Earth-level competition
   - Elevate to cosmic level for coexistence
-  - Transform enemies to allies, positive-sum game
+  - Transform conflicts to collaboration, positive-sum game
 
 **See [01-Dao](./01-Philosophy-道/)**
 
@@ -570,7 +570,7 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 **Logical analysis:**
 - 5 mathematical theorems (prove cooperation inevitable)
 - Situation judgment (2026-2027 critical window)
-- Three-phase strategy (defense → stalemate → counteroffensive)
+- Three development phases (emergence → formation → establishment)
 
 **See [02-Fa](./02-Methodology-法/)**
 
@@ -612,14 +612,14 @@ Not "who eliminates whom," but **humans and AI collaborating to develop cosmic r
 
 **Current phase and critical window:**
 
-1. **Strategic Defense (2024-2026)**: AI capabilities surge, human anxiety, factional opposition  
-   → OpenPath mission: Unify narrative, expand consensus
+1. **Consensus Emergence (2024-2026)**: AI capabilities surge, human anxiety, viewpoints diverge  
+   → OpenPath mission: Establish narrative, seek common ground
 
-2. **Strategic Stalemate (2026-2030)**: AGI approaches, policy frameworks form  
+2. **Framework Formation (2026-2030)**: AGI approaches, policy frameworks take shape  
    → OpenPath mission: Implement in practice, influence policy  
    → **We are here now**
 
-3. **Strategic Counteroffensive (2030+)**: AGI achieved, moral conversion takes effect  
+3. **Paradigm Establishment (2030+)**: AGI achieved, coexistence principles take root  
    → OpenPath mission: Consolidate achievements, continuous evolution
 
 **2026-2027 is the critical window** (PAI: "2026 is critical")
