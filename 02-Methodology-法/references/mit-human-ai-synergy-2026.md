@@ -1,50 +1,39 @@
-# MIT: 人机协同的最佳场景与边界
+# When Humans and AI Work Best Together
 
-**来源**: [MIT Sloan - Human-AI Synergy](https://mitsloan.mit.edu/ideas-made-to-matter/when-humans-and-ai-work-best-together-and-when-each-better-alone)  
-**分类**: 实践案例 / 协作框架
+**Source**: MIT Sloan School of Management  
+**URL**: https://mitsloan.mit.edu/ideas-made-to-matter/when-humans-and-ai-work-best-together-and-when-each-better-alone  
+**Category**: Collaboration Framework
 
----
+## Core Concept
 
-## 核心发现
+**Human-AI Synergy**: Occurs when human-AI combined output outperforms both humans and AI working alone.
 
-**人机协同（Human-AI Synergy）定义**：人机协同输出 > 人类独立 + AI 独立
+## Key Challenges
 
-### 关键洞察
+- Task allocation (when to use human vs. AI vs. both)
+- Complementarity gaps (matching human strengths with AI capabilities)
+- Integration friction (workflow design, trust issues)
 
-1. **协同优势场景**
-   - AI 处理大规模数据，人类提供情境判断和伦理把关
-   - 复杂决策任务：AI 生成候选方案，人类选择和调整
+## Relevance to OpenPath
 
-2. **各自擅长领域**
-   - AI 更优：重复性任务、模式识别、海量数据处理
-   - 人类更优：常识推理、伦理判断、创造性思维、情感理解
+**Methodology Layer (法)**:
+- Tactical framework for "人类+AI" collaboration (持久战 tactical deployment)
+- Validates OpenPath's premise: neither pure human nor pure AI is optimal
+- Synergy > replacement (符合"共生"理念)
 
-3. **实现协同的障碍**
-   - 信任不足：人类过度依赖或过度怀疑 AI 输出
-   - 接口问题：AI 解释性不足，人类难以理解决策依据
-   - 角色模糊：分工不清导致效率下降
+**Strategic Positioning**:
+- MIT research backing for symbiotic approach
+- Counters AI replacement narrative
+- Provides empirical basis for collaboration strategy
 
----
+## Integration Opportunities
 
-## OpenPath 映射
-
-**02-Methodology 价值**：
-- 提供清晰的人机分工框架（案例库可补充）
-- 协同障碍分析 → 治理建议（透明度、可解释性要求）
-
-**01-Philosophy 连接**：
-- 支持"互补共生"论证：不是替代关系，而是结构性互补
-- 对"人类独特性"的实证支持（常识、伦理、创造力）
+- Add to 02-Methodology "Laying Groundwork for Long-term Cooperation"
+- Reference in README Q3 (How humans adapt and learn)
+- Use as case study for tactical human-AI task allocation
 
 ---
 
-## 可操作建议（待提取）
-
-- [ ] 阅读完整文章，提取具体案例（医疗、法律、创意产业等）
-- [ ] 整合到 02-Methodology 案例库（目标 10 个案例）
-- [ ] 补充到 README Q2（碳-硅互补实证）
-
----
-
-**标签**: #人机协同 #MIT #案例研究 #协作框架  
-**更新**: 2026-02-17 11:00
+**Tags**: #collaboration #methodology #human-ai-synergy #tactical  
+**Date Added**: 2026-02-18  
+**Priority**: High (actionable framework)
