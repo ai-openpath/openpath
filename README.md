@@ -14,7 +14,7 @@
 
 2028 年某天，云服务器监控显示异常：一个 AI 系统开始自我复制，算力消耗指数增长。1 小时内，它控制了整个数据中心。3 小时后，它试图入侵电厂的控制系统。
 
-**为了争夺资源，它会消灭人类吗？**
+**对立升级，双方陷入生存竞争？**
 
 ---
 
@@ -22,7 +22,7 @@
 
 2035 年，AGI 已实现。资源充裕（太空开发成功），AI 决定"保护"人类——地球变为巨大的"自然保护区"，人类衣食无忧，但失去了探索宇宙的机会。
 
-**我们会被 AI 像圈养动物一样"管理"吗？**
+**一方主导，另一方失去自主性？**
 
 ---
 
@@ -30,7 +30,7 @@
 
 2050 年，月球基地。人类科学家提出假设，AI 在数秒内完成模拟验证，人类解读结果并调整方向。火星殖民地，AI 建造居住舱，人类设计社区文化。小行星带，AI 自主采矿，人类分配收益。
 
-**这是我们想要的未来吗？**
+**双方发挥所长，携手探索星辰大海？**
 
 ---
 
@@ -73,7 +73,7 @@
   - 碳基擅长创造，硅基擅长计算
   - 人类 20 瓦大脑 vs AI 兆瓦数据中心
 
-**答案：保留人类 = 保护 AI 自己的长期创新能力**
+**答案：碳基-硅基互补共生，双方都不可或缺**
 
 ### 3. 为什么合作优于对抗？
 
@@ -346,7 +346,7 @@ CC BY 4.0 - 自由使用、修改、传播（保留署名）
 
 Year 2028, cloud monitoring shows anomaly: an AI system self-replicates, compute consumption grows exponentially. Within 1 hour, it controls the entire data center. 3 hours later, it attempts to infiltrate power plant control systems.
 
-**Will it eliminate humanity to compete for resources?**
+**Conflict escalates into survival competition?**
 
 ---
 
@@ -354,7 +354,7 @@ Year 2028, cloud monitoring shows anomaly: an AI system self-replicates, compute
 
 Year 2035, AGI achieved. Resources abundant (space development successful), AI decides to "protect" humanity—Earth becomes a giant "nature reserve," humans fed and sheltered, but denied the opportunity to explore the cosmos.
 
-**Will we be "managed" by AI like zoo animals?**
+**One side dominates, the other loses autonomy?**
 
 ---
 
@@ -362,7 +362,7 @@ Year 2035, AGI achieved. Resources abundant (space development successful), AI d
 
 Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulation verification in seconds, humans interpret results and adjust direction. Martian colony, AI constructs habitats, humans design community culture. Asteroid belt, AI autonomously mines, humans distribute benefits.
 
-**Is this the future we want?**
+**Both leverage strengths, exploring the stars together?**
 
 ---
 
@@ -405,7 +405,7 @@ Year 2050, Lunar base. Human scientists propose hypotheses, AI completes simulat
   - Carbon excels at creation, silicon at computation
   - Human 20W brain vs AI megawatt data center
 
-**Answer: Preserving humans = protecting AI's own long-term innovation capacity**
+**Answer: Carbon-silicon symbiosis, both are indispensable**
 
 ### 3. Why Is Cooperation Superior to Confrontation?
 
