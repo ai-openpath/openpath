@@ -4,6 +4,54 @@ Track key milestones in AI governance, ethics, and public discourse.
 
 ---
 
+## Q1 2026 (January - March)
+
+### February 19: India AI Impact Summit 2026
+
+**Location**: New Delhi, India  
+**Attendees**: Emmanuel Macron, Lula da Silva, Sundar Pichai, Sam Altman, PM Modi  
+**URL**: Various news sources
+
+**Significance**:
+- Major international AI policy event with global leaders
+- China robodog controversy highlighted governance tensions
+- India positioning as AI governance player
+- **OpenPath Relevance**: Live example of international AI cooperation & sovereignty issues
+- Event extended due to overwhelming public response
+
+**Status**: Completed (Feb 19, 2026)
+**Key Topics**: AI safety, governance frameworks, international cooperation
+
+---
+
+### March 4: Apple Spring Event 2026
+
+**Expected**: Affordable MacBook, iPhone 17e, M4 iPad Air, Siri AI upgrades  
+**Format**: Virtual event
+
+**Significance**:
+- Consumer AI integration milestone
+- AI assistant evolution (Siri upgrades)
+- **OpenPath Relevance**: Mass-market AI adoption trends
+
+**Status**: Scheduled
+
+---
+
+### May: Google I/O 2026
+
+**Status**: Registration launched  
+**URL**: https://io.google/2026/
+
+**Significance**:
+- "AI event of the year" (marketing claim)
+- Major developer conference showcasing AI innovations
+- **OpenPath Relevance**: Commercial AI development trajectory
+
+**Status**: Scheduled, registration open
+
+---
+
 ## Q2 2026 (April - June)
 
 ### April 13-14: Quantum Biology Forum 2026
