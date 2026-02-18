@@ -25,7 +25,7 @@
 
 #### 2. 演化生物学视角
 - [x] 中性理论（neutral theory）与演化随机性 ✅ 2026-02-19
-- [ ] 趋同演化（convergent evolution）案例（眼睛、翅膀）
+- [x] 趋同演化（convergent evolution）案例（眼睛、翅膀） ✅ 2026-02-19
 - [ ] 协同演化（coevolution）实例（花-蜜蜂、宿主-寄生虫）
 - [ ] 演化的路径依赖性（historical contingency）
 - [ ] 大灭绝与复苏的创新爆发
