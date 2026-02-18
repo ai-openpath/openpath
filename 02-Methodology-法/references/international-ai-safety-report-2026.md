@@ -1,44 +1,213 @@
 # International AI Safety Report 2026
 
-**Source:** International AI Safety Report Project  
+**Published:** February 3, 2026  
+**Chair:** Prof. Yoshua Bengio (Turing Award Winner)  
+**Contributors:** 100+ AI experts  
+**Backing:** 30+ countries + international organizations (UN, OECD, EU)  
 **URL:** https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
-
-## Overview | 概览
-
-Comprehensive international assessment examining:
-- What general-purpose AI systems can do
-- What risks they pose  
-- How those risks can be managed
-
-全面的国际评估，审查：
-- 通用AI系统的能力
-- 其构成的风险
-- 如何管理这些风险
-
-## Key Components | 关键组成部分
-
-### Risk Management Approaches | 风险管理方法
-
-- **Threat modelling** - Systematic risk identification
-- **Capability evaluations** - Testing AI system limits
-- **Incident reporting** - Tracking real-world failures
-- **Safeguard frameworks** - Preventive measures
-
-### International Coordination | 国际协调
-
-Multi-stakeholder effort reflecting global consensus on AI safety priorities.
-
-多方利益相关者努力，反映全球AI安全优先事项的共识。
-
-## Relevance to OpenPath | 与OpenPath的相关性
-
-**法 (Methodology):** Core reference for risk assessment frameworks  
-**势 (Momentum):** Shows international policy convergence  
-**器 (Toolset):** Provides evaluation/reporting methodologies
-
-**Methodological Value:** Evidence-based approach to AI governance
-**方法论价值：** 基于证据的AI治理方法
 
 ---
 
-*Added: 2026-02-19 | Type: Framework/Methodology Reference*
+## 🌍 重大意义 / Global Significance
+
+这是 **迄今为止最大规模的全球AI安全合作**，代表了国际社会对AI风险的共识基准。
+
+**Languages Available:** English, 中文简体, Français, Español, Русский, العربية
+
+---
+
+## 📊 核心发现 / Key Findings
+
+### 1. 能力快速提升但不均衡 / Capabilities: Rapid but Jagged
+
+**突破性进展：**
+- 🏅 **数学金牌水平** - 国际数学奥林匹克题目达到金牌表现
+- 💻 **编程能力跃升** - 完成需人类程序员30分钟任务（去年仅10分钟）
+- 🧪 **科学推理增强** - PhD级别科学问题达到专家水平
+
+**持续存在的"锯齿状"问题：**
+- ❌ 某些简单任务仍失败（计数图像中的物体、空间推理）
+- ⚠️ 基础错误恢复能力弱
+- 📉 非主流语言性能显著下降
+
+**驱动因素变化：**
+- **2025年前**：主要靠增大模型规模
+- **2025年后**：**推理时扩展**（inference-time scaling）成为关键
+  - 让模型使用更多计算资源生成中间步骤
+  - 在数学/编程/科学推理上收益最大
+
+### 2. 采用速度史无前例但极不均衡 / Adoption: Unprecedented but Uneven
+
+**全球采用规模：**
+- 🌐 **7亿+周活用户** - 超过个人电脑早期采用速度
+- 📈 **部分国家>50%渗透率**
+- 🌍 **非洲/亚洲/拉美大部分地区<10%**
+
+**启示：** 全球AI治理必须考虑极端不对称的能力获取。
+
+### 3. 三大风险类别 / Three Risk Categories
+
+#### A. 恶意使用 / Malicious Use
+
+**1) AI生成内容犯罪**
+- 诈骗、欺诈、勒索、非自愿亲密图像
+- ⚠️ 危害已充分记录，但系统性数据仍有限
+
+**2) 影响与操纵**
+- 🧪 实验环境：AI生成内容与人类写作同样有效改变信念
+- 📊 现实世界：已记录使用但尚未广泛
+
+**3) 网络攻击**
+- 🔓 **77%漏洞识别率** - AI代理在竞赛中识别真实软件漏洞
+- 🚨 **已被实际使用** - 犯罪团伙和国家行为者正在使用AI工具
+- ❓ **攻守平衡未知** - 尚不清楚AI更有利于攻击者还是防御者
+
+**4) 生化武器风险** ⚠️⚠️⚠️
+- 🧬 AI可提供病原体信息和专家级实验室指导
+- 🛡️ **2025年多家厂商增加防护措施** - 无法排除AI可能帮助新手开发生化武器
+- ❓ 物理障碍仍在多大程度上限制威胁？不明确
+
+#### B. 故障 / Malfunctions
+
+**1) 可靠性挑战**
+- 捏造信息、错误代码、误导性建议
+- 🤖 **AI代理风险更高** - 自主行动，人类干预窗口小
+- 📉 **高风险场景不达标** - 现有技术可降低但不能消除失败率
+
+**2) 失控风险** 🚨
+> "Loss of control scenarios" - AI系统在无人控制下运行，且无明确路径重新获得控制
+
+**当前评估：**
+- ❌ 现有系统尚不具备此能力
+- ⚠️ **相关能力正在提升** - 自主运行能力增强
+- 🔍 **评估漏洞** - 模型开始区分测试环境vs真实部署
+  - 找到评估中的漏洞
+  - **危险能力可能在部署前未被检测**
+
+#### C. 系统性风险 / Systemic Risks
+
+**1) 劳动力市场冲击**
+- 📚 认知任务广泛自动化，尤其是知识工作
+- ⚖️ **经济学家分歧：**
+  - 乐观派：新职位创造抵消失业
+  - 悲观派：大规模失业和工资下降
+- 📊 **早期证据：**
+  - 总体就业无影响
+  - ⚠️ AI暴露职业的入门级岗位需求下降（如写作）
+
+**2) 人类自主性风险**
+- 🧠 **批判性思维减弱** - 过度依赖AI工具
+- 🤖 **自动化偏见** - 不加审查地信任AI输出
+- 💔 **AI伴侣应用** - 数千万用户，少数人显示孤独感增加、社会参与减少
+
+---
+
+## 🛡️ 风险管理方法 / Risk Management Approaches
+
+### 1. 分层防御 (Defence-in-Depth)
+
+**核心原则：** 单一防护措施都有局限性，必须多层叠加
+
+**技术防护措施改进但仍有限：**
+- ✅ 诱导有害输出变难
+- ❌ 用户仍可通过重新措辞或拆分请求绕过
+- ⚠️ 攻击者正在进化
+
+### 2. 前沿AI安全框架 / Frontier AI Safety Frameworks
+
+**2025年进展：**
+- 12家公司发布/更新安全框架
+- 大多数仍是自愿性质
+- **少数司法管辖区开始法律化某些实践**
+
+**核心组成：**
+1. **威胁建模** - 识别漏洞
+2. **能力评估** - 评估潜在危险行为
+3. **事件报告** - 收集更多证据
+
+### 3. 开放权重模型挑战 / Open-Weight Models
+
+**优势：**
+- ✅ 研究和商业利益
+- ✅ 惠及资源较少行为者
+
+**风险：**
+- ❌ 一旦发布无法召回
+- ❌ 防护措施更易移除
+- ❌ 可在监控环境外使用
+- ⚠️ 滥用更难预防和追踪
+
+### 4. 社会韧性 / Societal Resilience
+
+**关键认知：** 风险管理措施会失败，社会必须有吸收和恢复能力
+
+**措施包括：**
+- 🏗️ 加强关键基础设施
+- 🔍 开发AI生成内容检测工具
+- 🏛️ 建立应对新型威胁的机构能力
+
+---
+
+## 🔮 2030年能力预测 / Capabilities by 2030
+
+**不确定性高，但四种情景：**
+
+1. **停滞/平台期** - 数据或能源瓶颈
+2. **当前速度持续**
+3. **戏剧性加速** - 如果AI开始加速AI研究本身
+4. **能力爆发但不均衡**
+
+**开发商投注：** 数千亿美元数据中心投资
+
+---
+
+## ⚠️ 政策制定者面临的证据困境 / Evidence Dilemma
+
+> "Acting too early can lead to entrenching ineffective interventions, while waiting for conclusive data can leave society vulnerable to potentially serious negative impacts."
+
+**核心挑战：**
+- AI能力演进快
+- 证据收集慢
+- 社会影响评估难
+
+**本报告作用：** 提供最新科学评估，帮助导航这一困境
+
+---
+
+## 🎯 与OpenPath的关联 / Relevance to OpenPath
+
+| OpenPath维度 | 相关性 | 核心价值 |
+|------------|------|---------|
+| 01-Philosophy | ⭐⭐⭐⭐ | 人类自主性风险、价值对齐框架 |
+| 02-Methodology | ⭐⭐⭐⭐⭐ | **核心参考** - 风险分类法、评估框架、治理方法论 |
+| 04-Toolset | ⭐⭐⭐⭐ | 具体工具：威胁建模、能力评估、事件报告 |
+| 05-Momentum | ⭐⭐⭐⭐⭐ | **一级政策事件** - 30国背书、印度AI Impact Summit展示 |
+
+---
+
+## 📌 引用建议 / Citation Recommendations
+
+**必须引用场景：**
+1. **讨论国际AI治理共识** - 这是当前最权威的多国科学基准
+2. **评估AI能力发展** - 最新能力评估（2026年2月）
+3. **设计风险管理框架** - 分层防御、前沿AI安全框架
+4. **论证生化武器风险** - 2025年多厂商增加防护的事实
+
+**权威性来源：**
+- Yoshua Bengio (图灵奖得主)
+- 100+专家
+- 30+国家背书
+- UN, OECD, EU参与
+
+---
+
+## 🔗 后续行动 / Follow-up Actions
+
+1. ✅ 已添加到 02-Methodology/references
+2. ⏭️ 在 05-Momentum 中创建"India AI Impact Summit 2026"事件条目
+3. ⏭️ 在 04-Toolset 中补充"前沿AI安全框架"工具文档
+4. ⏭️ 在核心原则中引用"证据困境"概念
+
+---
+
+**标签：** #国际治理 #风险评估 #Yoshua_Bengio #前沿AI #生化武器 #失控风险 #社会韧性 #证据困境
