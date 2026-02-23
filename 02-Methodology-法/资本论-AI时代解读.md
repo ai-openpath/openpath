@@ -206,3 +206,91 @@
 
 *最后更新：2026-02-23*
 *基于《资本论》第一卷第15章 + 2026年最新AI裁员数据*
+
+## 马克思第15章在AI时代的应用（2026-02-23）
+
+### 原文核心段落
+**出处**：《资本论》第一卷第15章《机器与大工业》
+
+> "Like every other increase in the productiveness of labour, machinery is intended to cheapen commodities, and, by shortening that portion of the working-day, in which the labourer works for himself, to lengthen the other portion that he gives, without an equivalent, to the capitalist. **In short, it is a means for producing surplus-value.**"
+
+### AI时代的直接映射
+
+#### 1. 机器的资本主义目的不变
+- **19世纪机器**：取代手工劳动 → 降低商品成本 → 增加剩余价值
+- **21世纪AI**：取代认知劳动 → 降低服务成本 → 增加剩余价值
+- **本质相同**：技术进步在资本主义框架下服务于"producing surplus-value"，而非解放劳动
+
+#### 2. 从"生产机器的机器"到"生产智能的智能"
+马克思指出大工业时代的标志是"production of machines by means of machines"（用机器生产机器）。
+
+**AI时代的演进**：
+- GPT-4训练GPT-5（AI训练AI）
+- AI自动编写代码、优化算法、设计芯片
+- 递归自我改进 → 智能爆炸（Singularity）
+
+**关键区别**：机器只能复制自己，AI可以超越自己——这是质的飞跃。
+
+#### 3. 剩余价值理论的终结点
+马克思的剩余价值理论建立在"劳动力商品"的基础上：
+- 工人出卖劳动力 → 资本家支付工资（低于创造的价值）→ 差额=剩余价值
+
+**AI导致的根本性危机**：
+- 当AI可以完成所有劳动（体力+脑力）→ **劳动力商品消失**
+- 没有劳动者 → 没有剩余价值 → 资本主义生产关系崩溃
+- 这不是改良问题，而是**系统性终结**
+
+#### 4. "Historical Element"的重要性
+马克思强调："epochs in the history of society are no more separated from each other by hard and fast lines of demarcation"（历史时期之间没有截然分明的界限）
+
+**应用到AI**：
+- 技术本身中立，但其**应用方式**由生产关系决定
+- 蒸汽机在资本主义下→剥削工具；在社会主义下→解放工具
+- AI在资本主义下→预测性裁员、监控、剥削；在新生产关系下→UBI、工时缩短、按需分配
+
+### 2026年验证案例
+
+#### CEO的诚实（HBR报道）
+现代资本家明确承认AI的目的：
+- **Sam Altman**: "亿美元公司只需1人"（极致的剩余价值榨取）
+- **Jim Farley**: "一半白领工作消失"（劳动力商品的消失）
+- **裁员趋势**: "基于AI潜力而非性能"（预期剩余价值最大化）
+
+这完美印证马克思的论断：资本的目的不是技术进步本身，而是通过技术**增加剩余价值**。
+
+#### 矛盾的激化
+- **生产力**：AI使生产率飙升（经济学家Goolsbee: "productivity growth has been really high"）
+- **分配危机**：71%公众担心永久失业（Reuters民调）
+- **政治真空**：政府拒绝讨论（Gary Peters: "not many people are talking about it"）
+
+**马克思预言的实现**：生产力与生产关系的矛盾达到临界点。
+
+### 理论启示
+
+#### 生产关系必须调整
+历史规律（见《生产力革命规律.md》）：
+- 蒸汽时代 → 工会合法化、工厂法
+- 电气时代 → 8小时工作制、福利国家
+- 互联网时代 → 平台监管（尚未完成）
+- **AI时代 → ？**
+
+**马克思主义答案**：
+1. **短期**：UBI、工时缩短、AI税（缓解矛盾）
+2. **中期**：数据/算法公有化（改变所有权）
+3. **长期**：按需分配（超越剩余价值逻辑）
+
+#### 为什么资本主义无法自救
+资本的本质是自我增殖（M-C-M'）。当AI消灭劳动力商品：
+- 无法再从工人身上榨取剩余价值
+- 只能榨取其他资本家（金融化、虚拟经济）
+- 最终陷入需求不足危机（无工人=无消费者）
+
+**结论**：AI不是资本主义的升级，而是其**墓志铭**。
+
+---
+
+### 参考文献
+- Marx, Karl. *Capital: Volume I*. Chapter 15: Machinery and Large-Scale Industry. https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm
+- HBR (2026). "Companies Are Laying Off Workers Because of AI's Potential—Not Its Performance"
+- The Atlantic (2026). "America Isn't Ready for What AI Will Do to Jobs"
+
