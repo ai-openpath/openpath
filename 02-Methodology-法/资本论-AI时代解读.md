@@ -294,3 +294,58 @@
 - HBR (2026). "Companies Are Laying Off Workers Because of AI's Potential—Not Its Performance"
 - The Atlantic (2026). "America Isn't Ready for What AI Will Do to Jobs"
 
+---
+
+## 马克思原文新引用（2026-02-24）
+
+### 机器的三部分构成
+
+> "All fully developed machinery consists of three essentially different parts, the motor mechanism, the transmitting mechanism, and finally the tool or working machine."
+
+**AI时代的精确对应**：
+| 马克思的机器构成 | AI时代的对应 |
+|-----------------|-------------|
+| Motor mechanism（动力机） | GPU集群/算力基础设施 |
+| Transmitting mechanism（传动机构） | 模型推理框架、API |
+| Tool or working machine（工作机） | 大语言模型本身 |
+
+**洞察**：马克思的分析框架至今完全适用。AI不是"新物种"，而是机器的终极形态——认知工作机。
+
+### 革命的起点
+
+> "In manufacture, the revolution in the mode of production begins with the labour-power, in modern industry it begins with the instruments of labour."
+
+**AI时代的验证**：
+- 制造业革命：从改变劳动力组织开始（分工、协作）
+- 现代工业革命：从改变工具开始（蒸汽机、电力）
+- **AI革命**：从改变认知工具开始（LLM）
+
+**意义**：AI革命的本质是"工具革命"，而非"劳动革命"。这解释了为什么资本可以快速部署AI——无需改变劳动组织，只需更换工具。
+
+### 机器取代工具的关键
+
+> "From the moment that the tool proper is taken from man, and fitted into a mechanism, a machine takes the place of a mere implement."
+
+**AI时代的应用**：
+- 从"人使用软件"到"软件自己执行"
+- GitHub Copilot → AI写代码（工具从人手中剥离）
+- ChatGPT → AI写文档（认知工具机械化）
+
+**历史加速**：蒸汽时代用了100年完成"工具→机器"，AI时代可能只需10年完成"认知工具→认知机器"。
+
+### 理论更新总结
+
+**验证的规律**：
+1. 机器目的=剩余价值最大化（完全验证）
+2. 生产关系必须随生产力调整（历史规律）
+3. 工具革命是现代工业的起点（AI符合模式）
+
+**AI的特殊性**：
+- "用机器生产机器"→"用智能生产智能"（递归自我改进）
+- 劳动力商品面临消失（剩余价值理论面临终结）
+- 转型周期极大缩短（10年 vs 历史平均40年）
+
+---
+
+*最后更新：2026-02-24*
+
